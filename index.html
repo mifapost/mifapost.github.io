@@ -11,6 +11,7 @@
 	<script src="js/jquery-1.12.4.min.js" defer></script>
 	<script src="js/jquery.main.js" defer></script>
 	<script src="js/jquery.lang.js" defer></script>
+	<script src="https://maps.googleapis.com/maps/api/js" defer></script>
 </head>
 <body>
 	<div id="wrapper">
@@ -30,15 +31,15 @@
 					<div class="nav-container">
 						<nav>
 							<ul id="nav" class="main-nav unstyled-list">
-								<li><a href="#section2" key="link01" class="anchor-link tr">Тема</a></li>
-								<li><a href="#section3" key="link02" class="anchor-link tr">Направление</a></li>
-								<li><a href="#section4" key="link03" class="anchor-link tr">Отбор</a></li>
-								<li><a href="#section5" key="link04" class="anchor-link tr">Этапы</a></li>
-								<li><a href="#section6" key="link05" class="anchor-link tr">Призы</a></li>
-								<li><a href="#section7" key="link06" class="anchor-link tr">Жюри</a></li>
-								<li><a href="#section8" key="link07" class="anchor-link tr">Менторы </a></li>
-								<li><a href="#section9" key="link08" class="anchor-link tr">Локация</a></li>
-								<li><a href="#section10" key="link09" class="anchor-link tr">Партнеры</a></li>
+								<li><a href="#section2" data-key="link01" class="anchor-link tr">Підхід</a></li>
+								<li><a href="#section3" data-key="link02" class="anchor-link tr">Напрямки</a></li>
+								<li><a href="#section4" data-key="link03" class="anchor-link tr">Відбір</a></li>
+								<li><a href="#section5" data-key="link04" class="anchor-link tr">Етапи</a></li>
+								<li><a href="#section6" data-key="link05" class="anchor-link tr">Призи</a></li>
+								<li><a href="#section7" data-key="link06" class="anchor-link tr">Жюрі</a></li>
+								<li><a href="#section8" data-key="link07" class="anchor-link tr">Ментори </a></li>
+								<li><a href="#section9" data-key="link08" class="anchor-link tr">Локація</a></li>
+								<li><a href="#section10" data-key="link09" class="anchor-link tr">Партнери</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -57,8 +58,7 @@
 					</div>
 				</div>
 				<ul class="language-list unstyled-list">
-					<li class="active"><button type="button" id="ru" class="lang">RU</button></li>
-					<li><button type="button" id="ua" class="lang">UA</button></li>
+					<li class="active"><button type="button" id="ua" class="lang">UA</button></li>
 					<li><button type="button" id="en" class="lang">EN</button></li>
 				</ul>
 				<a href="#" class="nav-opener"><span></span></a>
@@ -70,41 +70,41 @@
 					<h1>
 						<img src="images/Hackathon-4block.svg" alt="HACKATHON 4BLOCK" width="1048" height="147">
 					</h1>
-					<span class="time tr" key="time">28-29 апреля 2018</span>
+					<span class="time tr" data-key="time">28-29 Квітня 2018</span>
 					<div class="timer-holder">
-						<p key="text01" class="tr">До окончания регистрации <br> осталось:</p>
+						<p data-key="text01" class="tr">До закінчення реєстрації <br> залишилось:</p>
 						<div id="timer">
 							<div class="timer-item">
 								<span id="day" class="number"></span>
-								<span key="day" class="tr text">Дней</span>
+								<span data-key="day" class="tr text">Днів</span>
 							</div>
 							<div class="timer-item">
 								<span id="hour" class="number"></span>
-								<span key="hour" class="tr text">Часов</span>
+								<span data-key="hour" class="tr text">Годин</span>
 							</div>
 							<div class="timer-item">
 								<span id="minute" class="number"></span>
-								<span key="minute" class="tr text">Минут</span>
+								<span data-key="minute" class="tr text">Хвилин</span>
 							</div>
 							<div class="timer-item">
 								<span id="second" class="number"></span>
-								<span key="second" class="tr text">Секунд</span>
+								<span data-key="second" class="tr text">Секунд</span>
 							</div>
 						</div>
 					</div>
-					<a href="#" key="btn" class="tr btn">Хочу участвовать</a>
+					<a href="#" data-key="btn" class="tr btn">Хочу брати участь</a>
 				</div>
 			</div>
 			<div id="section2" class="intro-section">
 				<div class="container">
 					<div class="text-block">
 						<div class="intro-text">
-							<h2 key="heading02" class="tr">ТЕМА</h2>
-							<p key="text02" class="tr">Екохакатон 4th Block ориентирован на инновации в инфраструктуре городов, технологиях для ответственного потребления и новых решениях, направленных на защиту планеты и идеи для обеспечения лучшей жизни на Земле.</p>
+							<!-- <h2 data-key="heading02" class="tr">ТЕМА</h2> -->
+							<p data-key="text02" class="tr">Екохакатон 4-го блоку орієнтується на інновації в інфраструктурі міст, технологій відповідального споживання та нових рішень, спрямованих на захист планети та ідеї для забезпечення кращої життя на Землі.</p>
 						</div>
 						<div class="intro-text">
-							<h2 key="heading03" class="tr">РЕЗУЛЬТАТ</h2>
-							<p key="text03" class="tr">Работающий прототип сервиса или приложения, готовый для рассмотрения членами жюри и потенциальными инвесторами</p>
+							<h2 data-key="heading03" class="tr">результат</h2>
+							<p data-key="text03" class="tr">Працюючий прототип сервису чи аплікації, який готовий на розгляд членам жюрі та потенційним інвесторам.</p>
 						</div>
 					</div>
 					<div class="img-holder">
@@ -115,23 +115,23 @@
 			</div>
 			<div id="section3" class="direction-section">
 				<div class="container">
-					<h2 key="heading04" class="tr">НАПРАВЛЕНИЯ</h2>
+					<h2 data-key="heading04" class="tr">Напрямки</h2>
 					<ul class="direction-list unstyled-list">
 						<li>
 							<span class="number">1</span>
-							<p key="text04-1" class="tr">Индустриализация, инновации и инфраструктура</p>
+							<p data-key="text04-1" class="tr">Індустріалізація, Інновації та Транспортна Інфраструктура</p>
 						</li>
 						<li>
 							<span class="number">2</span>
-							<p key="text04-2" class="tr">Борьба с изменением климата</p>
+							<p data-key="text04-2" class="tr">Боротьба зі зміною клімату</p>
 						</li>
 						<li>
 							<span class="number">3</span>
-							<p key="text04-3" class="tr">Сохранение екосистем суши</p>
+							<p data-key="text04-3" class="tr">Збереження природи</p>
 						</li>
 						<li>
 							<span class="number">4</span>
-							<p key="text04-4" class="tr">Ответственное потребление и производство</p>
+							<p data-key="text04-4" class="tr">Відповідальне споживання та виробництво</p>
 						</li>
 					</ul>
 				</div>
@@ -140,12 +140,12 @@
 				<div class="container">
 					<div class="text-block">
 						<div class="intro-text">
-							<h2 key="heading05" class="tr">КРИТЕРИИ ОТБОРА</h2>
+							<h2 data-key="heading05" class="tr">Критерії Відбору</h2>
 							<ul class="unstyled-list">
-								<li key="text05-1" class="tr">Инновационность решения</li>
-								<li key="text05-2" class="tr">Воплощение проекта на практике</li>
-								<li key="text05-3" class="tr">Острота решаемой проблемы</li>
-								<li key="text05-4" class="tr">Возможности для масштабирования на региональном или национальном уровне</li>
+								<li data-key="text05-1" class="tr">Інноваційність рішення</li>
+								<li data-key="text05-2" class="tr">Практичне втілення проекта</li>
+								<li data-key="text05-3" class="tr">Гострота проблеми</li>
+								<li data-key="text05-4" class="tr">Масштабування</li>
 							</ul>
 						</div>
 					</div>
@@ -158,44 +158,106 @@
 			</div>
 			<div id="section5" class="stage-section">
 				<div class="container">
-					<h2 key="heading06" class="tr">ЭТАПЫ</h2>
-					<ul class="stage-list unstyled-list">
-						<li>
-							<span class="number">1</span>
-							<p key="text06-1" class="tr">Upgrading To Microsoft Windows Vista Tips</p>
-						</li>
-						<li>
-							<span class="number">2</span>
-							<p key="text06-2" class="tr">Upgrading To Microsoft Windows Vista Tips</p>
-						</li>
-						<li>
-							<span class="number">3</span>
-							<p key="text06-3" class="tr">Upgrading To Microsoft Windows Vista Tips</p>
-						</li>
-						<li>
-							<span class="number">4</span>
-							<p key="text06-4" class="tr">Upgrading To Microsoft Windows Vista Tips</p>
-						</li>
-					</ul>
+					<h2 data-key="heading06" class="tr">етапи</h2>
+					<div class="list-holder">
+						<time datetime="2018-04-21">21 квiтня</time>
+						<ul class="stage-list unstyled-list">
+							<li>
+								<span>9:30 - 10:00</span>
+								<p>Ранкова кава, реєстрація учасників</p>
+							</li>
+							<li>
+								<span>10:00 - 10:45</span>
+								<p>Відкриття</p>
+							</li>
+							<li>
+								<span>10:45 - 13:00</span>
+								<p>Презентація Ідей</p>
+							</li>
+							<li>
+								<span>13:00 - 13:30</span>
+								<p>Кава-Брейк</p>
+							</li>
+							<li>
+								<span>13:30 - 15:00</span>
+								<p>Робота над проектами</p>
+							</li>
+							<li>
+								<span>15:00 - 16:00</span>
+								<p>Urban Food Lunch</p>
+							</li>
+							<li>
+								<span>16:00 - 18 30</span>
+								<p>Лекції менторів. Менторські години з проектами.</p>
+							</li>
+							<li>
+								<span>18:30 - 19:30</span>
+								<p>Dinner and Ideation Party</p>
+							</li>
+							<li>
+								<span>19:30 - 00:00</span>
+								<p>Робота над проектами</p>
+							</li>
+							<li>
+								<span>00:00 - 09:00</span>
+								<p>HACKATHON!!!</p>
+							</li>
+						</ul>
+						<time datetime="2018-04-22">22 квiтня</time>
+						<ul class="stage-list unstyled-list">
+							<li>
+								<span>09:00 - 10:00</span>
+								<p>Ранкова кава</p>
+							</li>
+							<li>
+								<span>10:00 - 12:00</span>
+								<p>Робота над проектами</p>
+							</li>
+							<li>
+								<span>12:00 - 13:00</span>
+								<p>Менторські години</p>
+							</li>
+							<li>
+								<span>13:00 - 14:00</span>
+								<p>Urban Food Open Air</p>
+							</li>
+							<li>
+								<span>14:00 - 16:00</span>
+								<p>Робота над проектами</p>
+							</li>
+							<li>
+								<span>16:00 - 18:00</span>
+								<p>Фінальні Презентації Проектів</p>
+							</li>
+							<li>
+								<span>18:00 - 19:00</span>
+								<p>Визначення переможців</p>
+							</li>
+							<li>
+								<span>19:00 - 22:00</span>
+								<p>Закриття хакатону / AFTER-PARTY</p>
+							</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 			<div id="section6" class="prize-section">
 				<div class="container">
-					<h2 key="heading07" class="tr">ПРИЗЫ</h2>
+					<h2 data-key="heading07" class="tr">Призи</h2>
 					<ul class="prize-list unstyled-list">
 						<li>
 							<span class="number">2</span>
-							<p key="text07-1" class="tr">A Discount Toner Cartridge</p>
+							<p data-key="text07-1" class="tr">A Discount Toner Cartridge</p>
 							<span class="place second"></span>
 						</li>
 						<li>
 							<span class="number">1</span>
-							<p key="text07-2" class="tr">Astronomy Binoculars A Great Alternative</p>
+							<p data-key="text07-2" class="tr">Astronomy Binoculars A Great Alternative</p>
 							<span class="place first"></span>
 						</li>
 						<li>
 							<span class="number">3</span>
-							<p key="text07-3" class="tr">A Discount Toner </p>
+							<p data-key="text07-3" class="tr">A Discount Toner </p>
 							<span class="place third"></span>
 						</li>
 					</ul>
@@ -203,17 +265,17 @@
 			</div>
 			<div id="section7" class="jury-section">
 				<div class="container">
-					<h2 key="heading08" class="tr">ЖЮРИ</h2>
+					<h2 data-key="heading08" class="tr">Жюрі</h2>
 					<ul class="jury-list unstyled-list">
 						<li>
 							<div class="person-holder">
 								<img src="images/person01.png" alt="image description">
 							</div>
 							<div class="info-holder">
-								<strong key="jury01-1" class="tr name">Элис Твемлоу</strong>
-								<span key="jury01-2" class="tr position">Писательница и Дизайн критик</span>
-								<p key="jury01-3" class="tr">Историк, писательница и дизайн критик, пишущий и читающий лекции по всем аспектам дизайнерской культуры, но особое внимание уделяет графическому дизайну. Элис Твемлоу является лектором в KABK / Leiden University, сопредседателем магистерской программы в School of Visual Arts (New York) и одним из руководителей Академии Дизайна в Eindhoven. Пишет лекции и преподает в Victoria & AlbertMuseum и Royal College of Art в Лондоне.</p>
-								<p key="jury01-4" class="tr">Элис Твемлоу имеет степень PhD по "Истории дизайна» и в настоящее время разрабатывает свою докторскую диссертацию по истории дизайнерской критики в книге, которая будет опубликована в MIT Press.</p>
+								<strong data-key="jury01-1" class="tr name">ЕЛІС ТВЕМЛОУ</strong>
+								<span data-key="jury01-2" class="tr position">Історик, письменниця та дизайн критик</span>
+								<p data-key="jury01-3" class="tr">Історик, письменниця та дизайн критик, яка пише та читає лекції з усіх аспектів дизайнерської культури, але особливу увагу приділяє графічному  дизайну. Еліс Твемлоу є лектором в KABK/Leiden University, співголовою магістерської програми  в School of Visual Arts (New York) та одним з керівників Академії Дизайну в  Eindhoven. Пише лекції та викладає в Victoria & AlbertMuseum  і  Royal College of Art в Лондоні.</p>
+								<p data-key="jury01-4" class="tr">Еліс Твемлоу має ступінь PhD з "Історії дизайну" і в даний час розробляє свою докторську дисертацію з історії дизайнерської критики у книзі, яку буде опубліковано в MIT Press.</p>
 							</div>
 						</li>
 						<li>
@@ -221,9 +283,10 @@
 								<img src="images/person02.png" alt="image description">
 							</div>
 							<div class="info-holder">
-								<strong key="jury02-1" class="tr name">Париса Ташакори</strong>
-								<span key="jury02-2" class="tr position">Графический дизайнер и Арт-директор</span>
-								<p key="jury02-3" class="tr">Дизайнер-график, арт-директор со своим определенным индивидуальным почерком, и четко проявленным интересом к социальной проблематике. Дизайнер родилась в Тегеране, но сейчас живет в США / Колорадо. Имеет диплом Магистра по графическому дизайну и занимается педагогической деятельностью. С 2012- 2015 года было членом иранского общества дизайнеров (IGDS). Принимала участие в создании иранского музея графического дизайна. Как куратор некоторых проектов и выставок организовала "Vitrine ̶ историческую выставку иранских книжных обложек и" Divarkoob "̶ групповые выставки в 5-ти городах Ирана. Имеет публикации на международных сайтах, книгах и журналах, таких как: Varoom, Design 360, 2 + 3D, Etapes, Neshan, Tandis, Tasvir, Kak и Adobe Magazine. на протяжении своей карьеры участвовала более чем в 50 национальных и международных выставках в разных странах мира и была многоразовим призером национальных и международных фестивалей дизайна, вроде международное Триеннале эко ̶ плаката "4-й Блок" в Украине ", Ekoplaga t 05 "в Словакии, COW! дизайн фестиваль в Украине, конкурс института переработки материала в Тегеране и др .. Все чаще Парису Ташакори приглашают в качестве члена жюри национальных и международных биеннале и триеннале, поэтому в апреле 2018 мы имеем честь принимать ее у нас на юбилейной 10-й триеннале.</p>
+								<strong data-key="jury02-1" class="tr name">ПАРІСА ТАШАКОРІ</strong>
+								<span data-key="jury02-2" class="tr position">дизайнер-графік, арт-директор</span>
+								<p data-key="jury02-3" class="tr">Неймовірної краси жінка,  висококласний дизайнер-графік, арт-директор із своїм визначеним індивідуальним почерком, та чітко проявленим інтересом до соціальної проблематики. Все це доцільно характеризує представницю молодого покоління іранської школи плаката  ̶  Парісу Ташакорі.</p>
+								<p data-key="jury02-4" class="tr">Дизайнерка народилась в Тегерані, але зараз мешкає в США/Колорадо. Має диплом Магістра з графічного дизайну і займається педагогічною діяльністю. З 2012- 2015 року була членом іранського товариства дизайнерів (IGDS). Приймала участь в  заснуванні іранського музею Графічного Дизайну. Як  куратор  деяких проектів та виставок  організувала  “Vitrine  ̶  історичну виставку іранських книжкових обкладинок  та  “Divarkoob” ̶ групові виставки в 5-ти містах Ірану. Має публікації на міжнародних веб-сайтах, книгах та журналах, таких як: Varoom, Design 360, 2 + 3D, Etapes, Neshan, Tandis, Tasvir, Kak та Adobe Magazine. Впродовж своєї кар’єри  брала  участь  більш ніж  в 50 національних та міжнародних виставках у різних країнах світу та була многоразовим призером національних і міжнародних фестивалів дизайну, на кшталт: міжнародна  Триєнале еко ̶ плакату “4-й Блок” в Україні, “Ekoplagat 05” у Словаччині, COW! дизайн фестиваль в Україні, конкурс інституту переробки матеріалу в Тегерані та інш.. Все частіше Парісу Ташакорі запрошують як члена журі національних та міжнародних бієнале та триєнале, тож в  квітні 2018 ми маємо за честь приймати її у нас на ювілейної 10-й триєнале.</p>
 							</div>
 						</li>
 						<li>
@@ -231,10 +294,11 @@
 								<img src="images/person03.png" alt="image description">
 							</div>
 							<div class="info-holder">
-								<strong key="jury03-1" class="tr name">Паула Трокслер</strong>
-								<span key="jury03-2" class="tr position">Дизайнер и Иллюстратор</span>
-								<p key="jury03-3" class="tr">Происходит из семьи одного из самых известных швейцарских дизайнеров-графиков сегодня - Никлауса Трокслера, классика джазового плаката. Несомненно, Паола не только переняла талант своего отца и продолжает воплощать заложены им идеи, но и изобрел свой уникальный стиль. Она удачно манипулирует с элементами hand-made, шрифтом и изображением. Мастер реализует свой талант в различных средах, начиная от создания и редакционной работы немецких журналов к разработке айдентики для джазовых фестивалей и театральных постановок, и каждый раз ей удается сохранить ту харизматическую игривость, что нарушает традиционные стереотипы современного швейцарского плаката. В 2006 году окончила Люцернский университет прикладного искусства и дизайна. С 2006 года работает в собственных студиях в Люцерне, Берлине и Цюрихе. С 2011 года - профессор Университета прикладных наук FH Mainz в Германии. С 2015 года имеет студию derhund.org вместе с Клеоном Медугораком.</p>
-								<p key="jury03-4" class="tr">Среди профессиональных наград - Специальная премия на Международной биеннале плаката в Корее (2005), Первая премия на Международной биеннале театрального плаката в Ржешове (2007), Премия «Jagda Excellent Award» на Международной биеннале плаката на Тайване (2007), Премия Токийского Клуба шрифтовых дизайнеров Type Directors Club (2007, 2009, 2010), Премия Нью-Йоркского Клуба шрифтовых дизайнеров Type Directors Club (2007, 2009). Лауреат «Golden Bee» (2010). Почетный член жюри «Golden Bee» (2012).</p>
+								<strong data-key="jury03-1" class="tr name">ПАОЛА ТРОКСЛЕР</strong>
+								<span data-key="jury03-2" class="tr position">дизайнер та ілюстратор</span>
+								<p data-key="jury03-3" class="tr">Паола Трокслер дизайнер та иллюстратор.  Походить з родини одного з найвідоміших швейцарських дизайнерів-графіків сьогодення – Ніклауса Трокслера, класика джазового плаката.  Безсумнівно, Паола не тільки перейняла  талант свого батька і  продовжує втілювати закладені їм ідеї, але й винайшла свій унікальний стиль. Вона вдало маніпулює  з елементами hand-made, шрифтом та зображенням.  Майстриня  реалізує свій талант в різних середовищах, починаючи від створення та редакційної роботи німецьких журналів до розробки айдентикі для джазових фестивалів та театральних постановок, і кожного разу їй вдається зберегти ту харизматичну грайливість, що порушує традиційні стереотипи сучасного швейцарського плаката.</p>
+								<p data-key="jury03-4" class="tr">У 2006 році закінчила Люцернський університет прикладного мистецтва і дизайну. З 2006 року працює у власних студіях в Люцерні, Берліні та Цюріху. З 2011 року – професор Університету прикладних наук FH Mainz в Німеччині. З 2015 року  має студію derhund.org разом з Клеоном Медугораком.</p>
+								<p data-key="jury03-5" class="tr">Серед професійних нагород – Спеціальна премія на Міжнародній бієнале плаката в Кореї (2005), Перша премія на Міжнародній бієнале театрального плаката в Ржешове (2007), Премія «Jagda Excellent Award» на Міжнародній бієнале плаката на Тайвані (2007), Премія Токійського Клубу шрифтових дизайнерів Type Directors Club (2007, 2009, 2010), Премія Нью-Йоркського Клубу шрифтових дизайнерів Type Directors Club (2007, 2009). Лауреат «Golden Bee» (2010). Почесний член журі «Golden Bee» (2012).</p>
 							</div>
 						</li>
 						<li>
@@ -242,9 +306,9 @@
 								<img src="images/person04.png" alt="image description">
 							</div>
 							<div class="info-holder">
-								<strong key="jury04-1" class="tr name">Майя Вольна</strong>
-								<span key="jury04-2" class="tr position">Художник-график, Дизайнер, Иллюстратор</span>
-								<p key="jury04-3" class="tr">Майя Вольная - художник-график, дизайнер, иллюстратор, которая представляет молодое поколение польских дизайнеров принтмейкерив. Получив диплом магистра изобразительного искусства в Познанский Академии искусств, Майя преподает в ведущих учебных заведениях Польши, среди которых: Познанский Университет Искусств, Варшавская школа информатики и Варшавская школа фотографии и графического дизайна. Мастер реализует свой талант в различных средах, и в настоящее время она работает с видеоартом и экспериментирует со своим голосом. Майя много внимания уделяет социальной проблематике. Ее основные интересы бушуют вокруг феномена жизни, человека, мира, духовности и космоса. Работы дизайнера принимают участие во многих международных конкурсах искусства, групповых и индивидуальных выставках по всему миру, где получают главные награды и призы. Среди выдающихся побед Майи можно назвать получение золотой медали с 22-го международного биеннале плакатов в Варшаве в 2010 г.., И Гран-При международного конкурса плаката «Анти СПИД-Украина» в 2006 году.</p>
+								<strong data-key="jury04-1" class="tr name">Майя Вольна</strong>
+								<span data-key="jury04-2" class="tr position">художник-графік, дизайнер, ілюстратор</span>
+								<p data-key="jury04-3" class="tr">Майя Вольна – художник-графік, дизайнер, ілюстратор,  яка представляє молоде покоління польських дизайнерів-прінтмейкерів.  Отримавши  диплом магістра образотворчого мистецтва в Познанський Академії  мистецтв, Майя викладає  в провідних учбових закладах Польщі, серед яких: Познанський Університет Мистецтв, Варшавська школа інформатикі та Варшавська школа фотографії і графічного дизайну. Майстриня  реалізує свій талант в різних середовищах, і в даний час вона працює з відеоартом та експериментує із своїм голосом. Майя багато уваги приділяє соціальній проблематиці. ЇЇ основні інтереси  вирують навколо феномена життя, людини, світу, духовності та космосу. Роботи дизайнерки приймають участь у багатьох міжнародних конкурсах мистецтва, групових та індивідуальних виставках по всьому світу, де дістають головні нагороди та призи. Серед найвидатніших перемог Майї можна назвати отримання золотої медалі з 22-го міжнародного  бієнале плакатів в Варшаві у 2010 р.,  та Гран-Прі  з міжнародного конкурсу плаката «Анти СНІД-Україна» у 2006 році.</p>
 							</div>
 						</li>
 						<li>
@@ -252,19 +316,19 @@
 								<img src="images/person05.png" alt="image description">
 							</div>
 							<div class="info-holder">
-								<strong key="jury05-1" class="tr name">Татьяна Борзунова</strong>
-								<span key="jury05-2" class="tr position">График-дизайнер, арт-директор</span>
-								<p key="jury05-3" class="tr">В 2006 году получила диплом магистра графического дизайна Харьковской Государственной Академии Дизайна и Искусств. Вместе с партнером Сергеем Мишакина, уже более 10 лет руководит одной из ведущих дизайнерских студий Украины - 3Z. Студия работает в международном масштабе и фокусируется на графическом и коммуникативном дизайне, корпоративной айдентици, визуальном брендинге, книгах. Наиболее резонансными проектами студии можно назвать логотип ко Дню Победы «Никогда Снова», и корпоративную айдентику для «Министерства иностранных дел Украины». Работы Татьяны легко узнаваемы, ведь имеют свой изысканный стиль в виде удачного сочетания форм и шрифтов, где максимальная выразительность достигается за счет минимальных художественных средств и контрастов. Сама же Татьяна комментирует, что каждое визуальное решение базируется на основательном исследовании материала и концептуальной идеи, после чего все лишнее отсекается, пока не будет найден минимально необходимый символ для коммуникации. Кроме бизнес проектов, дизайнер много работает в культурном пространстве, среди которых: Swap UK / Ukraine project for British Council, Identity for Malevich Award 2016 Фестиваль социальных инициатив и новой музыки Plan B, Zajazz 2010 и другие.</p>
-								<p>Татьяна Борзунова является многократным участником плакатных выставок, лауреатом дизайнерских фестивалей и конкурсов:</p>
+								<strong data-key="jury05-1" class="tr name">ТЕТЯНА БОРЗУНОВА</strong>
+								<span data-key="jury05-2" class="tr position">Графік-дизайнер, арт-директор</span>
+								<p data-key="jury05-3" class="tr">У 2006 році здобула диплом магістра графічного дизайну Харківської Державної Академії Дизайну та Мистецтв. Разом із партнером Сергієм Мішакіним, вже понад 10 років керує однією з провідних дизайнерських студій України – 3Z. Студія працює в міжнародному масштабі й фокусується на графічному та комунікативному дизайні, корпоративній айдентиці, візуальному брендингу, книгах. Найбільш резонансними проектами студії можна назвати: логотип до Дня Перемоги «Ніколи Знову», та корпоративну айдентику для «Міністерства Закордонних Справ України». Роботи Тетяни легко впізнаванні, адже мають свій вишуканий стиль у вигляді вдалого поєднання форм та шрифтів, де максимальна виразність досягається коштом мінімальних художніх засобів та контрастів. Сама ж Тетяна коментує, що кожне візуальне рішення базується на ґрунтовному дослідженні матеріалу та концептуальній ідеї, після чого все зайве відсікається, доки не буде знайдений мінімально необхідний символ для комунікації. Окрім бізнес проектів, дизайнерка багато працює в культурному просторі, серед яких: Swap UK/Ukraine project for British Council, Identity for Malevich Award 2016, Фестиваль соціальних ініціатив та нової музики Plan B, Zajazz 2010 та інші.</p>
+								<p data-key="jury05-4" class="tr">Тетяна Борзунова є багаторазовим учасником плакатних виставок, лауреатом дизайнерських фестивалів та конкурсів:</p>
 								<ul>
-									<li>2016 «Дизайн и Кризис» плакатная выставка в рамках фестиваля Plaster. Торунь. Польша.</li>
-									<li>2007 «Eidos 2006/07» специальная награда от жюри. Киев. Украина</li>
-									<li>2006 VI Международная триеннале эко-плаката «4-й БЛОК». Харьков. Украина</li>
-									<li>2005 Проект П. Макова «Utopia. Хроники. 1992-2005 гг ». Харьков. Украина</li>
-									<li>2004 Международное биеннале графического дизайна в Brno. Moravian gallery. Чехия</li>
-									<li>2004 Международное биеннале графического дизайна «Golden Bee» Москва, Россия</li>
-									<li>2004 Международный конкурс экологических постеров «FUR PUR». Франция</li>
-									<li>2003 V международная триеннале эко-плаката «4-й БЛОК». Харьков. Украина</li>
+									<li data-key="jury05-5" class="tr">2016 «Дизайн і Криза» плакатна виставка в рамках фестивалю Plaster. Торунь. Польща.</li>
+									<li data-key="jury05-6" class="tr">2007 «Eidos 2006/07» спеціальна нагорода від журі. Київ. Україна</li>
+									<li data-key="jury05-7" class="tr">2006 VI Міжнародна триєнале еко-плакату «4-й БЛОК». Харків. Україна</li>
+									<li data-key="jury05-8" class="tr">2005 Проект П. Макова «Utopia. Хроніки. 1992-2005 рр». Харків. Україна</li>
+									<li data-key="jury05-9" class="tr">2004 Міжнародне бієнале графічного дизайну у Brno. Moravian gallery. Чехія</li>
+									<li data-key="jury05-10" class="tr">2004 Міжнародне бієнале графічного дизайну «Golden Bee» Москва, Росія</li>
+									<li data-key="jury05-11" class="tr">2004 Міжнародний конкурс екологічних постерів «FUR PUR». Франція</li>
+									<li data-key="jury05-12" class="tr">2003 V міжнародна триєнале еко-плакату «4-й БЛОК». Харків. Україна</li>
 								</ul>
 							</div>
 						</li>
@@ -273,42 +337,42 @@
 			</div>
 			<div id="section8" class="mentor-section">
 				<div class="container">
-					<h2 key="heading09" class="tr">МЕНТОРЫ</h2>
+					<h2 data-key="heading09" class="tr">Ментори</h2>
 					<ul class="mentor-list unstyled-list">
 						<li>
 							<span class="person-holder">
 								<img src="images/person06.jpg" alt="image description">
 							</span>
-							<span key="name09-1" class="tr name">Ethel Vargas</span>
-							<span key="text09-1" class="tr position">The Principles Of Scientific Cooking</span>
+							<span data-key="name09-1" class="tr name">Ethel Vargas</span>
+							<span data-key="text09-1" class="tr position">The Principles Of Scientific Cooking</span>
 						</li>
 						<li>
 							<span class="person-holder">
 								<img src="images/person06.jpg" alt="image description">
 							</span>
-							<span key="name09-2" class="tr name">Ethel Vargas</span>
-							<span key="text09-2" class="tr position">The Principles Of Scientific Cooking</span>
+							<span data-key="name09-2" class="tr name">Ethel Vargas</span>
+							<span data-key="text09-2" class="tr position">The Principles Of Scientific Cooking</span>
 						</li>
 						<li>
 							<span class="person-holder">
 								<img src="images/person06.jpg" alt="image description">
 							</span>
-							<span key="name09-3" class="tr name">Ethel Vargas</span>
-							<span key="text09-3" class="tr position">The Principles Of Scientific Cooking</span>
+							<span data-key="name09-3" class="tr name">Ethel Vargas</span>
+							<span data-key="text09-3" class="tr position">The Principles Of Scientific Cooking</span>
 						</li>
 						<li>
 							<span class="person-holder">
 								<img src="images/person06.jpg" alt="image description">
 							</span>
-							<span key="name09-4" class="tr name">Ethel Vargas</span>
-							<span key="text09-4" class="tr position">The Principles Of Scientific Cooking</span>
+							<span data-key="name09-4" class="tr name">Ethel Vargas</span>
+							<span data-key="text09-4" class="tr position">The Principles Of Scientific Cooking</span>
 						</li>
 						<li>
 							<span class="person-holder">
 								<img src="images/person06.jpg" alt="image description">
 							</span>
-							<span key="name09-5" class="tr name">Ethel Vargas</span>
-							<span key="text09-5" class="tr position">The Principles Of Scientific Cooking</span>
+							<span data-key="name09-5" class="tr name">Ethel Vargas</span>
+							<span data-key="text09-5" class="tr position">The Principles Of Scientific Cooking</span>
 						</li>
 					</ul>
 				</div>
@@ -317,9 +381,9 @@
 				<div class="container">
 					<div class="text-block">
 						<div class="intro-text">
-							<h2>ЛОКАЦИЯ</h2>
-							<h3>Харківська Школа Архітектури</h3>
-							<address>вул. Конторська, 5 <br>
+							<h2 data-key="heading10" class="tr">Локація</h2>
+							<h3 data-key="text10-1" class="tr">Харківська Школа Архітектури</h3>
+							<address data-key="text10-2" class="tr">вул. Конторська, 5 <br>
 							Харків, Україна</address>
 						</div>
 					</div>
@@ -329,7 +393,7 @@
 						<img src="images/bg13.png" class="bg13" alt="image description">
 					</div>
 					<div class="map-holder">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2565.2896930892066!2d36.222283315714606!3d49.987177979414184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4127a0f7a2e16d13%3A0xd59048121b355054!2z0LLRg9C70LjRhtGPINCa0L7QvdGC0L7RgNGB0YzQutCwLCA1LCDQpdCw0YDQutGW0LIsINCl0LDRgNC60ZbQstGB0YzQutCwINC-0LHQu9Cw0YHRgtGMLCA2MTAwMA!5e0!3m2!1sru!2sua!4v1516870942234" style="border:0" allowfullscreen></iframe>
+						<div class="map" id="map"></div>
 					</div>
 				</div>
 			</div>
@@ -339,11 +403,11 @@
 						<h2>
 							<img src="images/Hackathon-4block.svg" alt="HACKATHON 4BLOCK" width="525" height="74">
 						</h2>
-						<span class="time">28-29 апреля 2018</span>
-						<a href="#" class="btn">Хочу участвовать</a>
+						<span data-key="time" class="tr time">28-29 апреля 2018</span>
+						<a href="#" data-key="btn" class="tr btn">Хочу участвовать</a>
 					</div>
 					<div id="section10" class="partners-block">
-						<h4>Партнеры</h4>
+						<h4 data-key="heading11" class="tr">Партнери</h4>
 						<ul class="logo-list unstyled-list">
 							<li><a href="#"><img src="images/logo01.png" alt="image description"></a></li>
 							<li><a href="#"><img src="images/logo01.png" alt="image description"></a></li>
@@ -355,7 +419,7 @@
 							<li><a href="#"><img src="images/logo01.png" alt="image description"></a></li>
 							<li><a href="#"><img src="images/logo01.png" alt="image description"></a></li>
 						</ul>
-						<h4>Организаторы</h4>
+						<h4 data-key="heading12" class="tr">Организаторы</h4>
 						<ul class="logo-list unstyled-list">
 							<li><a href="#"><img src="images/logo01.png" alt="image description"></a></li>
 							<li><a href="#"><img src="images/logo01.png" alt="image description"></a></li>
@@ -369,14 +433,14 @@
 			</div>
 			<div class="link-section">
 				<div class="container">
-					<a href="#">НА ГЛАВНУЮ TRIENNIAL</a>
+					<a href="#" data-key="link-back" class="tr">НА ГЛАВНУЮ TRIENNIAL</a>
 				</div>
 			</div>
 		</main>
 		<footer id="footer">
 			<div class="container">
 				<div class="col-holder">
-					<address>ХША, вул. Конторська, 5</address>
+					<address data-key="text11" class="tr">ХША, вул. Конторська, 5</address>
 					<a href="tel:+380679484853">+380 67 948 48 53</a>
 					<a href="mailto:&#084;&#104;&#101;&#095;&#052;&#116;&#104;&#095;&#098;&#108;&#111;&#099;&#107;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#084;&#104;&#101;&#095;&#052;&#116;&#104;&#095;&#098;&#108;&#111;&#099;&#107;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
 					<ul class="social-list unstyled-list">

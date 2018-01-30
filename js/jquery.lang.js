@@ -1,280 +1,265 @@
 // preparing language file
 var aLangKeys=new Array();
-aLangKeys['ru']=new Array();
 aLangKeys['ua']=new Array();
 aLangKeys['en']=new Array();
 
-aLangKeys['ru']['link01']='Тема';
-aLangKeys['ua']['link01']='Тема';
-aLangKeys['en']['link01']='Topic';
+aLangKeys['ua']['link01']='Підхід';
+aLangKeys['en']['link01']='Approach';
 
-aLangKeys['ru']['link02']='Направление';
-aLangKeys['ua']['link02']='Направление';
-aLangKeys['en']['link02']='Direction';
+aLangKeys['ua']['link02']='Напрямки';
+aLangKeys['en']['link02']='Directions';
 
-aLangKeys['ru']['link03']='Отбор';
-aLangKeys['ua']['link03']='Отбор';
-aLangKeys['en']['link03']='Criteria';
+aLangKeys['ua']['link03']='Відбір';
+aLangKeys['en']['link03']='Preselection';
 
-aLangKeys['ru']['link04']='Этапы';
 aLangKeys['ua']['link04']='Етапи';
 aLangKeys['en']['link04']='Stages';
 
-aLangKeys['ru']['link05']='Призы';
 aLangKeys['ua']['link05']='Призи';
 aLangKeys['en']['link05']='Prizes';
 
-aLangKeys['ru']['link06']='Жюри';
-aLangKeys['ua']['link06']='Журі';
-aLangKeys['en']['link06']='Juries';
+aLangKeys['ua']['link06']='Жюрі';
+aLangKeys['en']['link06']='Jury';
 
-aLangKeys['ru']['link07']='Менторы';
 aLangKeys['ua']['link07']='Ментори';
 aLangKeys['en']['link07']='Mentors';
 
-aLangKeys['ru']['link08']='Локация';
 aLangKeys['ua']['link08']='Локація';
 aLangKeys['en']['link08']='Location';
 
-aLangKeys['ru']['link09']='Партнеры';
 aLangKeys['ua']['link09']='Партнери';
 aLangKeys['en']['link09']='Partners';
 
-aLangKeys['ru']['time']='28-29 апреля 2018';
-aLangKeys['ua']['time']='28-29 КВІТНЯ 2018';
-aLangKeys['en']['time']='28-29 April 2018';
+aLangKeys['ua']['time']='28-29 Квітня 2018';
+aLangKeys['en']['time']='28-29th of April 2018';
 
-aLangKeys['ru']['text01']='До окончания регистрации осталось:';
-aLangKeys['ua']['text01']='До закінчення реєстрації залишилося:';
-aLangKeys['en']['text01']='Until the end of registration is left:';
+aLangKeys['ua']['text01']='До закінчення реєстрації залишилось:';
+aLangKeys['en']['text01']='Registration deadline in:';
 
-aLangKeys['ru']['day']='Дней';
 aLangKeys['ua']['day']='Днів';
 aLangKeys['en']['day']='Days';
 
-aLangKeys['ru']['hour']='Часов';
 aLangKeys['ua']['hour']='Годин';
 aLangKeys['en']['hour']='Hours';
 
-aLangKeys['ru']['minute']='Минут';
 aLangKeys['ua']['minute']='Хвилин';
 aLangKeys['en']['minute']='Minutes';
 
-aLangKeys['ru']['second']='Секунд';
 aLangKeys['ua']['second']='Секунд';
 aLangKeys['en']['second']='Seconds';
 
-aLangKeys['ru']['btn']='Хочу участвовать';
-aLangKeys['ua']['btn']='Lorem ipsum';
-aLangKeys['en']['btn']='Ipsum dolorsit';
+aLangKeys['ua']['btn']='Хочу брати участь';
+aLangKeys['en']['btn']='I want to take part';
 
-aLangKeys['ru']['heading02']='ТЕМА';
-aLangKeys['ua']['heading02']='Lorem ipsum';
-aLangKeys['en']['heading02']='Ipsum dolorsit';
+// aLangKeys['ua']['heading02']='Lorem ipsum';
+// aLangKeys['en']['heading02']='Ipsum dolorsit';
 
-aLangKeys['ru']['text02']='Екохакатон 4th Block ориентирован на инновации в инфраструктуре городов, технологиях для ответственного потребления и новых решениях, направленных на защиту планеты и идеи для обеспечения лучшей жизни на Земле.';
-aLangKeys['ua']['text02']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, molestias.';
-aLangKeys['en']['text02']='Lorem ipsum dolor sit amet, consectetur adipisicing elit.';
+aLangKeys['ua']['text02']='Екохакатон 4-го блоку орієнтується на інновації в інфраструктурі міст, технологій відповідального споживання та нових рішень, спрямованих на захист планети та ідеї для забезпечення кращої життя на Землі.';
+aLangKeys['en']['text02']='Ecohackathon 4Block focuses on innovation in urban infrastructure, responsible consumption technologies and ideas of new solutions to protect the planet for a better life on Earth.';
 
-aLangKeys['ru']['heading03']='РЕЗУЛЬТАТ';
-aLangKeys['ua']['heading03']='Lorem ipsum';
-aLangKeys['en']['heading03']='Ipsum dolorsit';
+aLangKeys['ua']['heading03']='результат';
+aLangKeys['en']['heading03']='the result';
 
-aLangKeys['ru']['text03']='Работающий прототип сервиса или приложения, готовый для рассмотрения членами жюри и потенциальными инвесторами';
-aLangKeys['ua']['text03']='Lorem ipsum dolor sit consectetur.';
-aLangKeys['en']['text03']='Lorem ipsum dolor sit amet, consectetur.';
+aLangKeys['ua']['text03']='Працюючий прототип сервису чи аплікації, який готовий на розгляд членам жюрі та потенційним інвесторам.';
+aLangKeys['en']['text03']='Working prototype of service or application ready to be presented to jury or potential investors';
 
-aLangKeys['ru']['heading04']='НАПРАВЛЕНИЯ';
-aLangKeys['ua']['heading04']='Lorem ipsum';
-aLangKeys['en']['heading04']='Ipsum dolorsit';
+aLangKeys['ua']['heading04']='Напрямки';
+aLangKeys['en']['heading04']='Directions';
 
-aLangKeys['ru']['text04-1']='Индустриализация, инновации и инфраструктура';
-aLangKeys['ua']['text04-1']='Lorem ipsum dolor.';
-aLangKeys['en']['text04-1']='Lorem ipsum dolor sit.';
+aLangKeys['ua']['text04-1']='Індустріалізація, Інновації та Транспортна Інфраструктура';
+aLangKeys['en']['text04-1']='Industrialisation, Innovation and Transport Infrastructure';
 
-aLangKeys['ru']['text04-2']='Борьба с изменением климата';
-aLangKeys['ua']['text04-2']='Lorem ipsum dolor.';
-aLangKeys['en']['text04-2']='Lorem ipsum dolor sit.';
+aLangKeys['ua']['text04-2']='Боротьба зі зміною клімату';
+aLangKeys['en']['text04-2']='Climate change issues';
 
-aLangKeys['ru']['text04-3']='Сохранение екосистем суши';
-aLangKeys['ua']['text04-3']='Lorem ipsum dolor.';
-aLangKeys['en']['text04-3']='Lorem ipsum dolor sit.';
+aLangKeys['ua']['text04-3']='Збереження природи';
+aLangKeys['en']['text04-3']='Saving nature';
 
-aLangKeys['ru']['text04-4']='Ответственное потребление и производство';
-aLangKeys['ua']['text04-4']='Lorem ipsum dolor.';
-aLangKeys['en']['text04-4']='Lorem ipsum dolor sit.';
+aLangKeys['ua']['text04-4']='Відповідальне споживання та виробництво';
+aLangKeys['en']['text04-4']='Responsible consumption and production';
 
-aLangKeys['ru']['heading05']='КРИТЕРИИ ОТБОРА';
-aLangKeys['ua']['heading05']='Lorem ipsum';
-aLangKeys['en']['heading05']='Ipsum dolorsit';
+aLangKeys['ua']['heading05']='Критерії Відбору';
+aLangKeys['en']['heading05']='Preselection criteria';
 
-aLangKeys['ru']['text05-1']='Инновационность решения';
-aLangKeys['ua']['text05-1']='Lorem ipsum consectetur.';
-aLangKeys['en']['text05-1']='Lit amet, consectetur.';
+aLangKeys['ua']['text05-1']='Інноваційність рішення';
+aLangKeys['en']['text05-1']='Innovation';
 
-aLangKeys['ru']['text05-2']='Воплощение проекта на практике';
-aLangKeys['ua']['text05-2']='Lorem ipsum consectetur.';
-aLangKeys['en']['text05-2']='Lit amet, consectetur.';
+aLangKeys['ua']['text05-2']='Практичне втілення проекта';
+aLangKeys['en']['text05-2']='Implementation';
 
-aLangKeys['ru']['text05-3']='Острота решаемой проблемы';
-aLangKeys['ua']['text05-3']='Lorem ipsum consectetur.';
-aLangKeys['en']['text05-3']='Lit amet, consectetur.';
+aLangKeys['ua']['text05-3']='Гострота проблеми';
+aLangKeys['en']['text05-3']='Problem relevance';
 
-aLangKeys['ru']['text05-4']='Возможности для масштабирования на региональном или национальном уровне';
-aLangKeys['ua']['text05-4']='Lorem ipsum consectetur.';
-aLangKeys['en']['text05-4']='Lit amet, consectetur.';
+aLangKeys['ua']['text05-4']='Масштабування';
+aLangKeys['en']['text05-4']='Scalability';
 
-aLangKeys['ru']['heading06']='ЭТАПЫ';
-aLangKeys['ua']['heading06']='Lorem ipsum';
-aLangKeys['en']['heading06']='Ipsum dolorsit';
+aLangKeys['ua']['heading06']='етапи';
+aLangKeys['en']['heading06']='stages';
 
-aLangKeys['ru']['text06-1']='Upgrading To Microsoft Windows Vista Tips';
 aLangKeys['ua']['text06-1']='Lorem ipsum consectetur.';
 aLangKeys['en']['text06-1']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text06-2']='Upgrading To Microsoft Windows Vista Tips';
 aLangKeys['ua']['text06-2']='Lorem ipsum consectetur.';
 aLangKeys['en']['text06-2']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text06-3']='Upgrading To Microsoft Windows Vista Tips';
 aLangKeys['ua']['text06-3']='Lorem ipsum consectetur.';
 aLangKeys['en']['text06-3']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text06-4']='Upgrading To Microsoft Windows Vista Tips';
 aLangKeys['ua']['text06-4']='Lorem ipsum consectetur.';
 aLangKeys['en']['text06-4']='Lit amet, consectetur.';
 
-aLangKeys['ru']['heading07']='ПРИЗЫ';
-aLangKeys['ua']['heading07']='Lorem ipsum';
-aLangKeys['en']['heading07']='Ipsum dolorsit';
+aLangKeys['ua']['heading07']='Призи';
+aLangKeys['en']['heading07']='Prizes';
 
-aLangKeys['ru']['text07-1']='A Discount Toner Cartridge';
 aLangKeys['ua']['text07-1']='Lorem ipsum consectetur.';
 aLangKeys['en']['text07-1']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text07-2']='Astronomy Binoculars A Great Alternative';
 aLangKeys['ua']['text07-2']='Lorem ipsum consectetur.';
 aLangKeys['en']['text07-2']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text07-3']='A Discount Toner';
 aLangKeys['ua']['text07-3']='Lorem ipsum consectetur.';
 aLangKeys['en']['text07-3']='Lit amet, consectetur.';
 
-aLangKeys['ru']['heading08']='ЖЮРИ';
-aLangKeys['ua']['heading08']='Lorem ipsum';
-aLangKeys['en']['heading08']='Ipsum dolorsit';
+aLangKeys['ua']['heading08']='Жюрі';
+aLangKeys['en']['heading08']='Jury';
 
-aLangKeys['ru']['jury01-1']='Элис Твемлоу';
-aLangKeys['ua']['jury01-1']='Lorem ipsum';
-aLangKeys['en']['jury01-1']='Ipsum dolorsit';
+aLangKeys['ua']['jury01-1']='ЕЛІС ТВЕМЛОУ';
+aLangKeys['en']['jury01-1']='ALICE TWEMLOW';
 
-aLangKeys['ru']['jury01-2']='Писательница и Дизайн критик';
-aLangKeys['ua']['jury01-2']='Lorem ipsum';
-aLangKeys['en']['jury01-2']='Ipsum dolorsit';
+aLangKeys['ua']['jury01-2']='Історик, письменниця та дизайн критик';
+aLangKeys['en']['jury01-2']='Writer and Design critic';
 
-aLangKeys['ru']['jury01-3']='Историк, писательница и дизайн критик, пишущий и читающий лекции по всем аспектам дизайнерской культуры, но особое внимание уделяет графическому дизайну. Элис Твемлоу является лектором в KABK / Leiden University, сопредседателем магистерской программы в School of Visual Arts (New York) и одним из руководителей Академии Дизайна в Eindhoven. Пишет лекции и преподает в Victoria & AlbertMuseum и Royal College of Art в Лондоне.';
-aLangKeys['ua']['jury01-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat eveniet odit!';
-aLangKeys['en']['jury01-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat!';
+aLangKeys['ua']['jury01-3']='Історик, письменниця та дизайн критик, яка пише та читає лекції з усіх аспектів дизайнерської культури, але особливу увагу приділяє графічному  дизайну. Еліс Твемлоу є лектором в KABK/Leiden University, співголовою магістерської програми  в School of Visual Arts (New York) та одним з керівників Академії Дизайну в  Eindhoven. Пише лекції та викладає в Victoria & AlbertMuseum  і  Royal College of Art в Лондоні.';
+aLangKeys['en']['jury01-3']='Alice Twemlow is co-chair of the SVA MA in Design Research, Writing & Criticism in New York, and co-head of the MA in Design Curating & Writing at Design Academy Eindhoven. Twemlow has a Ph.D from the History of Design program run jointly by the Victoria & Albert Museum and the Royal College of Art in London, and is currently developing her doctoral thesis about the history of design criticism into a book to be published by MIT Press.';
 
-aLangKeys['ru']['jury01-4']='Элис Твемлоу имеет степень PhD по "Истории дизайна» и в настоящее время разрабатывает свою докторскую диссертацию по истории дизайнерской критики в книге, которая будет опубликована в MIT Press.';
-aLangKeys['ua']['jury01-4']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat eveniet odit!';
-aLangKeys['en']['jury01-4']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat!';
+aLangKeys['ua']['jury01-4']='Еліс Твемлоу має ступінь PhD з "Історії дизайну" і в даний час розробляє свою докторську дисертацію з історії дизайнерської критики у книзі, яку буде опубліковано в MIT Press.';
+aLangKeys['en']['jury01-4']='She writes and lectures on design culture, and has recently contributed essays to Graphisme en France (CNAP, 2016), Iconic Designs: 50 Stories about 50 Things (Berg, 2014), Lolita—Story of a Cover Girl: Vladimir Nabokov’s Novel in Art and Design (Print, 2013), and The Aspen Complex(Sternberg Press, 2012).';
 
-aLangKeys['ru']['jury02-1']='Париса Ташакори';
-aLangKeys['ua']['jury02-1']='Lorem ipsum';
-aLangKeys['en']['jury02-1']='Ipsum dolorsit';
+aLangKeys['ua']['jury02-1']='ПАРІСА ТАШАКОРІ';
+aLangKeys['en']['jury02-1']='PARISA TASHAKORI';
 
-aLangKeys['ru']['jury02-2']='Графический дизайнер и Арт-директор';
-aLangKeys['ua']['jury02-2']='Lorem ipsum';
-aLangKeys['en']['jury02-2']='Ipsum dolorsit';
+aLangKeys['ua']['jury02-2']='дизайнер-графік, арт-директор';
+aLangKeys['en']['jury02-2']='Graphic designer and Art director';
 
-aLangKeys['ru']['jury02-3']='Дизайнер-график, арт-директор со своим определенным индивидуальным почерком, и четко проявленным интересом к социальной проблематике. Дизайнер родилась в Тегеране, но сейчас живет в США / Колорадо. Имеет диплом Магистра по графическому дизайну и занимается педагогической деятельностью. С 2012- 2015 года было членом иранского общества дизайнеров (IGDS). Принимала участие в создании иранского музея графического дизайна. Как куратор некоторых проектов и выставок организовала "Vitrine ̶ историческую выставку иранских книжных обложек и" Divarkoob "̶ групповые выставки в 5-ти городах Ирана. Имеет публикации на международных сайтах, книгах и журналах, таких как: Varoom, Design 360, 2 + 3D, Etapes, Neshan, Tandis, Tasvir, Kak и Adobe Magazine. на протяжении своей карьеры участвовала более чем в 50 национальных и международных выставках в разных странах мира и была многоразовим призером национальных и международных фестивалей дизайна, вроде международное Триеннале эко ̶ плаката "4-й Блок" в Украине ", Ekoplaga t 05 "в Словакии, COW! дизайн фестиваль в Украине, конкурс института переработки материала в Тегеране и др .. Все чаще Парису Ташакори приглашают в качестве члена жюри национальных и международных биеннале и триеннале, поэтому в апреле 2018 мы имеем честь принимать ее у нас на юбилейной 10-й триеннале.';
-aLangKeys['ua']['jury02-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat eveniet odit!';
-aLangKeys['en']['jury02-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat!';
+aLangKeys['ua']['jury02-3']='Неймовірної краси жінка, висококласний дизайнер-графік, арт-директор із своїм визначеним індивідуальним почерком, та чітко проявленим інтересом до соціальної проблематики. Все це доцільно характеризує представницю молодого покоління іранської школи плаката  ̶  Парісу Ташакорі.';
+aLangKeys['en']['jury02-3']='Parisa Tashakori, Iranian graphic designer, art director and curator, was born in Tehran, Iran, where she was graduated in Graphic Design (BA, MA) from Azad University of Tehran and was granted an honorary doctorate from the Ministry of Culture and Islamic Guidance. During her career she has collaborated as designer and art director for several international advertising agencies and cultural institutions.';
 
-aLangKeys['ru']['jury03-1']='Паула Трокслер';
-aLangKeys['ua']['jury03-1']='Lorem ipsum';
-aLangKeys['en']['jury03-1']='Ipsum dolorsit';
+aLangKeys['ua']['jury02-4']='Дизайнерка народилась в Тегерані, але зараз мешкає в США/Колорадо. Має диплом Магістра з графічного дизайну і займається педагогічною діяльністю. З 2012- 2015 року була членом іранського товариства дизайнерів (IGDS). Приймала участь в  заснуванні іранського музею Графічного Дизайну. Як  куратор  деяких проектів та виставок  організувала  “Vitrine  ̶  історичну виставку іранських книжкових обкладинок  та  “Divarkoob” ̶ групові виставки в 5-ти містах Ірану. Має публікації на міжнародних веб-сайтах, книгах та журналах, таких як: Varoom, Design 360, 2 + 3D, Etapes, Neshan, Tandis, Tasvir, Kak та Adobe Magazine. Впродовж своєї кар’єри  брала  участь  більш ніж  в 50 національних та міжнародних виставках у різних країнах світу та була многоразовим призером національних і міжнародних фестивалів дизайну, на кшталт: міжнародна  Триєнале еко ̶ плакату “4-й Блок” в Україні, “Ekoplagat 05” у Словаччині, COW! дизайн фестиваль в Україні, конкурс інституту переробки матеріалу в Тегерані та інш.. Все частіше Парісу Ташакорі запрошують як члена журі національних та міжнародних бієнале та триєнале, тож в  квітні 2018 ми маємо за честь приймати її у нас на ювілейної 10-й триєнале.';
+aLangKeys['en']['jury02-4']='Now, she works as art director in her own studio in Colorado- Boulder, focusing primarily on social and cultural communication. Tashakori was a member of the board of the Iranian Graphic Designers Society (IGDS) and was in charge of the society exhibition section from 2012 to 2015. Parisa’s works has been exhibited over than 70 national and international exhibitions in various countries and has received some international awards. She has been member of the jury for numerous international competition and festivals like Bolivia Poster Biennial in La Paz, Lahti Poster Triennial in Finland, MUT ZUR WUT competition in Germany, Poster biennial in Mexico, “Silver Cypress” in Tehran, “Segunda Llamada” in Mexico, “Posterfortomorrow” in Paris , “Anti -AIDS” in Kharkov, Ukraine. She also has organized and carried out various cultural projects and workshops as well, individually or jointly with her friends, the most important of which include: Poland Graphic Design Week in two cities of Iran, Tehran-Taipei collective poster exhibition in Taiwan, Vitrine: A historical exhibition of Iranian book cover designs in Tehran, 2nd IGDS museum exhibition (selection of old Iranian theatre posters), Divarkoob: collective poster exhibition in 5 cities of Iran.';
 
-aLangKeys['ru']['jury03-2']='Дизайнер и Иллюстратор';
-aLangKeys['ua']['jury03-2']='Lorem ipsum';
-aLangKeys['en']['jury03-2']='Ipsum dolorsit';
+aLangKeys['ua']['jury03-1']='ПАОЛА ТРОКСЛЕР';
+aLangKeys['en']['jury03-1']='PAULA TROXLER';
 
-aLangKeys['ru']['jury03-3']='Происходит из семьи одного из самых известных швейцарских дизайнеров-графиков сегодня - Никлауса Трокслера, классика джазового плаката. Несомненно, Паола не только переняла талант своего отца и продолжает воплощать заложены им идеи, но и изобрел свой уникальный стиль. Она удачно манипулирует с элементами hand-made, шрифтом и изображением. Мастер реализует свой талант в различных средах, начиная от создания и редакционной работы немецких журналов к разработке айдентики для джазовых фестивалей и театральных постановок, и каждый раз ей удается сохранить ту харизматическую игривость, что нарушает традиционные стереотипы современного швейцарского плаката. В 2006 году окончила Люцернский университет прикладного искусства и дизайна. С 2006 года работает в собственных студиях в Люцерне, Берлине и Цюрихе. С 2011 года - профессор Университета прикладных наук FH Mainz в Германии. С 2015 года имеет студию derhund.org вместе с Клеоном Медугораком.';
-aLangKeys['ua']['jury03-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat eveniet odit!';
-aLangKeys['en']['jury03-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat!';
+aLangKeys['ua']['jury03-2']='дизайнер та ілюстратор';
+aLangKeys['en']['jury03-2']='designer and illustrator';
 
-aLangKeys['ru']['jury03-4']='Среди профессиональных наград - Специальная премия на Международной биеннале плаката в Корее (2005), Первая премия на Международной биеннале театрального плаката в Ржешове (2007), Премия «Jagda Excellent Award» на Международной биеннале плаката на Тайване (2007), Премия Токийского Клуба шрифтовых дизайнеров Type Directors Club (2007, 2009, 2010), Премия Нью-Йоркского Клуба шрифтовых дизайнеров Type Directors Club (2007, 2009). Лауреат «Golden Bee» (2010). Почетный член жюри «Golden Bee» (2012).';
-aLangKeys['ua']['jury03-4']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat eveniet odit!';
-aLangKeys['en']['jury03-4']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat!';
+aLangKeys['ua']['jury03-3']='Паола Трокслер дизайнер та иллюстратор.  Походить з родини одного з найвідоміших швейцарських дизайнерів-графіків сьогодення – Ніклауса Трокслера, класика джазового плаката.  Безсумнівно, Паола не тільки перейняла  талант свого батька і  продовжує втілювати закладені їм ідеї, але й винайшла свій унікальний стиль. Вона вдало маніпулює  з елементами hand-made, шрифтом та зображенням.  Майстриня  реалізує свій талант в різних середовищах, починаючи від створення та редакційної роботи німецьких журналів до розробки айдентикі для джазових фестивалів та театральних постановок, і кожного разу їй вдається зберегти ту харизматичну грайливість, що порушує традиційні стереотипи сучасного швейцарського плаката.';
+aLangKeys['en']['jury03-3']='Paula Troxler is a designer and illustrator. She is a daughter of one of the most famous Swiss graphic designers nowdays –  Niklaus Troxler,  a classic of jazz poster. Undoubtedly, Paola not only inherited her father’s talent continuing to implement his ideas, but invented his unique style also. She  manipulates  with hand-made elements, fonks and images successfully.Her work crosses several mediums, from zine-making and editorial work for German magazines to designing identities for jazz festivals and theatre productions, and in each and every one of her pieces she manages to retain the same charismatic playfulness  breaking the traditional stereotypes of the modern Swiss poster.';
 
-aLangKeys['ru']['jury04-1']='Майя Вольна';
-aLangKeys['ua']['jury04-1']='Lorem ipsum';
-aLangKeys['en']['jury04-1']='Ipsum dolorsit';
+aLangKeys['ua']['jury03-4']='У 2006 році закінчила Люцернський університет прикладного мистецтва і дизайну. З 2006 року працює у власних студіях в Люцерні, Берліні та Цюріху. З 2011 року – професор Університету прикладних наук FH Mainz в Німеччині. З 2015 року  має студію derhund.org разом з Клеоном Медугораком.';
+aLangKeys['en']['jury03-4']='In 2006,she graduated from the Lucerne University of Applied Arts and Design. Since 2006, she has been working at her own studios in Lucerne, Berlin and Zurich. Since 2011 – Professor at the University of Applied Sciences FH Mainz in Germany. Since 2015, has a studio derhund.org along with Cleon Medugorak.';
 
-aLangKeys['ru']['jury04-2']='Художник-график, Дизайнер, Иллюстратор';
-aLangKeys['ua']['jury04-2']='Lorem ipsum';
-aLangKeys['en']['jury04-2']='Ipsum dolorsit';
+aLangKeys['ua']['jury03-5']='Серед професійних нагород – Спеціальна премія на Міжнародній бієнале плаката в Кореї (2005), Перша премія на Міжнародній бієнале театрального плаката в Ржешове (2007), Премія «Jagda Excellent Award» на Міжнародній бієнале плаката на Тайвані (2007), Премія Токійського Клубу шрифтових дизайнерів Type Directors Club (2007, 2009, 2010), Премія Нью-Йоркського Клубу шрифтових дизайнерів Type Directors Club (2007, 2009). Лауреат «Golden Bee» (2010). Почесний член журі «Golden Bee» (2012).';
+aLangKeys['en']['jury03-5']='Some of the professional awards – Special Prize at the International Biennial of the Poster in Korea (2005), First Prize at the International Biennial of the Ragoshove Theater Poster (2007), Jagda Excellent Award Award at the International Biennial Posters in Taiwan (2007), Tokyo Font Designers Club Award Type Directors Club (2007, 2009, 2010), New York Typewriters Club Type Designers Club (2007, 2009). Laureate “Golden Bee” (2010). Honorary Member of the “Golden Bee” Jury (2012).';
 
-aLangKeys['ru']['jury04-3']='Майя Вольная - художник-график, дизайнер, иллюстратор, которая представляет молодое поколение польских дизайнеров принтмейкерив. Получив диплом магистра изобразительного искусства в Познанский Академии искусств, Майя преподает в ведущих учебных заведениях Польши, среди которых: Познанский Университет Искусств, Варшавская школа информатики и Варшавская школа фотографии и графического дизайна. Мастер реализует свой талант в различных средах, и в настоящее время она работает с видеоартом и экспериментирует со своим голосом. Майя много внимания уделяет социальной проблематике. Ее основные интересы бушуют вокруг феномена жизни, человека, мира, духовности и космоса. Работы дизайнера принимают участие во многих международных конкурсах искусства, групповых и индивидуальных выставках по всему миру, где получают главные награды и призы. Среди выдающихся побед Майи можно назвать получение золотой медали с 22-го международного биеннале плакатов в Варшаве в 2010 г.., И Гран-При международного конкурса плаката «Анти СПИД-Украина» в 2006 году.';
-aLangKeys['ua']['jury04-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat eveniet odit!';
-aLangKeys['en']['jury04-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat!';
+aLangKeys['ua']['jury04-1']='Майя Вольна';
+aLangKeys['en']['jury04-1']='MAJA WOLNA';
 
-aLangKeys['ru']['jury05-1']='Татьяна Борзунова';
-aLangKeys['ua']['jury05-1']='Lorem ipsum';
-aLangKeys['en']['jury05-1']='Ipsum dolorsit';
+aLangKeys['ua']['jury04-2']='художник-графік, дизайнер, ілюстратор';
+aLangKeys['en']['jury04-2']='artist, designer, illustrator';
 
-aLangKeys['ru']['jury05-2']='График-дизайнер, арт-директор';
-aLangKeys['ua']['jury05-2']='Lorem ipsum';
-aLangKeys['en']['jury05-2']='Ipsum dolorsit';
+aLangKeys['ua']['jury04-3']='Майя Вольна – художник-графік, дизайнер, ілюстратор,  яка представляє молоде покоління польських дизайнерів-прінтмейкерів.  Отримавши  диплом магістра образотворчого мистецтва в Познанський Академії  мистецтв, Майя викладає  в провідних учбових закладах Польщі, серед яких: Познанський Університет Мистецтв, Варшавська школа інформатикі та Варшавська школа фотографії і графічного дизайну. Майстриня  реалізує свій талант в різних середовищах, і в даний час вона працює з відеоартом та експериментує із своїм голосом. Майя багато уваги приділяє соціальній проблематиці. ЇЇ основні інтереси  вирують навколо феномена життя, людини, світу, духовності та космосу. Роботи дизайнерки приймають участь у багатьох міжнародних конкурсах мистецтва, групових та індивідуальних виставках по всьому світу, де дістають головні нагороди та призи. Серед найвидатніших перемог Майї можна назвати отримання золотої медалі з 22-го міжнародного  бієнале плакатів в Варшаві у 2010 р.,  та Гран-Прі  з міжнародного конкурсу плаката «Анти СНІД-Україна»  у 2006 році.';
+aLangKeys['en']['jury04-3']='Maja Volna is a graphic-designer, illustrator who is representing the younger generation of Polish designers  and  printmakers. Studied at Fine Arts Academy in Poznan. Obtained Diploma MA Fine Arts in Graphic Department at Fine Arts Academy in Poznan. Nowadays she is  working at the University of Art in Poznan at Animation Department and at the High School of the Computer Science and the Management in Warsaw at Graphic Department. She also works at the Warsaw School of Photography and Graphic Design. The artist implements her talent in defferent ways: posters, graphics, paintings, illustrations, collages are part of her artistic work. Currently she is working with new forms of artistic expression like video art and experimentig with her voice. Maja pays much attention to social issues. Her main interests are concentrated around the phenomenon of life, human, peace, spirituality and space. Maja takes part in many international art contests, group and individual exhibitions all over the world.  Among the most prominent victories of Maja is the receipt of a gold medal from the 22nd International Biennale of Poster in Warsaw 2010, and the Grand Prix in the international competition "Anti AIDS-Ukraine" 2006.';
 
-aLangKeys['ru']['jury05-3']='В 2006 году получила диплом магистра графического дизайна Харьковской Государственной Академии Дизайна и Искусств. Вместе с партнером Сергеем Мишакина, уже более 10 лет руководит одной из ведущих дизайнерских студий Украины - 3Z. Студия работает в международном масштабе и фокусируется на графическом и коммуникативном дизайне, корпоративной айдентици, визуальном брендинге, книгах. Наиболее резонансными проектами студии можно назвать логотип ко Дню Победы «Никогда Снова», и корпоративную айдентику для «Министерства иностранных дел Украины». Работы Татьяны легко узнаваемы, ведь имеют свой изысканный стиль в виде удачного сочетания форм и шрифтов, где максимальная выразительность достигается за счет минимальных художественных средств и контрастов. Сама же Татьяна комментирует, что каждое визуальное решение базируется на основательном исследовании материала и концептуальной идеи, после чего все лишнее отсекается, пока не будет найден минимально необходимый символ для коммуникации. Кроме бизнес проектов, дизайнер много работает в культурном пространстве, среди которых: Swap UK / Ukraine project for British Council, Identity for Malevich Award 2016 Фестиваль социальных инициатив и новой музыки Plan B, Zajazz 2010 и другие.';
-aLangKeys['ua']['jury05-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat eveniet odit!';
-aLangKeys['en']['jury05-3']='Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias laborum dolor, sapiente fugiat!';
+aLangKeys['ua']['jury05-1']='ТЕТЯНА БОРЗУНОВА';
+aLangKeys['en']['jury05-1']='TETYANA BORZUNOVA';
 
-aLangKeys['ru']['heading09']='МЕНТОРЫ';
-aLangKeys['ua']['heading09']='Lorem ipsum';
-aLangKeys['en']['heading09']='Ipsum dolorsit';
+aLangKeys['ua']['jury05-2']='Графік-дизайнер, арт-директор';
+aLangKeys['en']['jury05-2']='Graphic designer, art director';
 
-aLangKeys['ru']['name09-1']='Ethel Vargas';
+aLangKeys['ua']['jury05-3']='У 2006 році здобула диплом магістра графічного дизайну Харківської Державної Академії Дизайну та Мистецтв. Разом із партнером Сергієм Мішакіним, вже понад 10 років керує однією з провідних дизайнерських студій України – 3Z. Студія працює в міжнародному масштабі й фокусується на графічному та комунікативному дизайні, корпоративній айдентиці, візуальному брендингу, книгах. Найбільш резонансними проектами студії можна назвати: логотип до Дня Перемоги «Ніколи Знову», та корпоративну айдентику для «Міністерства Закордонних Справ України». Роботи Тетяни легко впізнаванні, адже мають свій вишуканий стиль у вигляді вдалого поєднання форм та шрифтів, де максимальна виразність досягається коштом мінімальних художніх засобів та контрастів. Сама ж Тетяна коментує, що кожне візуальне рішення базується на ґрунтовному дослідженні матеріалу та концептуальній ідеї, після чого все зайве відсікається, доки не буде знайдений мінімально необхідний символ для комунікації. Окрім бізнес проектів, дизайнерка багато працює в культурному просторі, серед яких: Swap UK/Ukraine project for British Council, Identity for Malevich Award 2016, Фестиваль соціальних ініціатив та нової музики Plan B, Zajazz 2010 та інші.';
+aLangKeys['en']['jury05-3']='In 2006, she received a Master’s degree in Graphic Design at the Kharkiv State Academy of Design and Arts. For over 10 years, together with the partner Sergey Mishakin she has been managing one of the leading design studios in Ukraine – 3Z. The studio works internationally and focuses on providing services of graphic and communication design, corporate identity, visual branding, posters and books. The most resonant projects of the studio are: a logo to the Victory Day “Never Again”, and a corporate identity for the “Ministry of Foreign Affairs of Ukraine”. The works of Tatiana are easily recognized, with her elegant style and successful combination of forms and fonts, where maximum expressiveness is achieved at the expense of minimal artistic tools and contrasts. Tatiana says that each visual solution of her work is based on a solid study of the material and a conceptual idea, after which all the superfluous is cut off until the minimal necessary symbol for communication is found. In addition to business projects, the designer has a lot of cultural work, including Swap UK / Ukraine project for the British Council, Identity for Malevich Award 2016, Plan of Social Initiatives and New Music Festival Plan B, Zajazz 2010, and others.';
+
+aLangKeys['ua']['jury05-4']='Тетяна Борзунова є багаторазовим учасником плакатних виставок, лауреатом дизайнерських фестивалів та конкурсів:';
+aLangKeys['en']['jury05-4']='She is a participant of numerous poster exhibitions, laureate of design festivals and competitions:';
+
+aLangKeys['ua']['jury05-5']='2016 «Дизайн і Криза» плакатна виставка в рамках фестивалю Plaster. Торунь. Польща.';
+aLangKeys['en']['jury05-5']='2016 “Design and Crisis” is a poster exhibition within the framework of the Plaster Festival. Torun Poland';
+
+aLangKeys['ua']['jury05-6']='2007 «Eidos 2006/07» спеціальна нагорода від журі. Київ. Україна';
+aLangKeys['en']['jury05-6']='2007 “Eidos 2006/07” special award from the jury. Kiev. Ukraine';
+
+aLangKeys['ua']['jury05-7']='2006 VI Міжнародна триєнале еко-плакату «4-й БЛОК». Харків. Україна';
+aLangKeys['en']['jury05-7']='2006 VI International Triennial of eco-poster “4th BLOCK”. Kharkiv Ukraine';
+
+aLangKeys['ua']['jury05-8']='2005 Проект П. Макова «Utopia. Хроніки. 1992-2005 рр». Харків. Україна';
+aLangKeys['en']['jury05-8']='2005 P.Makov project “Utopia. Chronicles 1992-2005 years “. Kharkiv Ukraine';
+
+aLangKeys['ua']['jury05-9']='2004 Міжнародне бієнале графічного дизайну у Brno. Moravian gallery. Чехія';
+aLangKeys['en']['jury05-9']='2004 International Graphic Design Biennial in Brno. Moravian gallery. Czech Republic';
+
+aLangKeys['ua']['jury05-10']='2004 Міжнародне бієнале графічного дизайну «Golden Bee» Москва, Росія';
+aLangKeys['en']['jury05-10']='2004 International Biennale of Graphic Design “Golden Bee” Moscow, Russia';
+
+aLangKeys['ua']['jury05-11']='2004 Міжнародний конкурс екологічних постерів «FUR PUR». Франція';
+aLangKeys['en']['jury05-11']='2004 International contest of ecological poster “FUR PUR”. France';
+
+aLangKeys['ua']['jury05-12']='2003 V міжнародна триєнале еко-плакату «4-й БЛОК». Харків. Україна';
+aLangKeys['en']['jury05-12']='2003 V International Triennial of eco-poster “4th BLOCK”. Kharkiv Ukraine';
+
+aLangKeys['ua']['heading09']='Ментори';
+aLangKeys['en']['heading09']='Mentors';
+
 aLangKeys['ua']['name09-1']='Lorem ipsum consectetur.';
 aLangKeys['en']['name09-1']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text09-1']='The Principles Of Scientific Cooking';
 aLangKeys['ua']['text09-1']='Lorem ipsum consectetur.';
 aLangKeys['en']['text09-1']='Lit amet, consectetur.';
 
-aLangKeys['ru']['name09-2']='Ethel Vargas';
 aLangKeys['ua']['name09-2']='Lorem ipsum consectetur.';
 aLangKeys['en']['name09-2']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text09-2']='The Principles Of Scientific Cooking';
 aLangKeys['ua']['text09-2']='Lorem ipsum consectetur.';
 aLangKeys['en']['text09-2']='Lit amet, consectetur.';
 
-aLangKeys['ru']['name09-3']='Ethel Vargas';
 aLangKeys['ua']['name09-3']='Lorem ipsum consectetur.';
 aLangKeys['en']['name09-3']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text09-3']='The Principles Of Scientific Cooking';
 aLangKeys['ua']['text09-3']='Lorem ipsum consectetur.';
 aLangKeys['en']['text09-3']='Lit amet, consectetur.';
 
-aLangKeys['ru']['name09-4']='Ethel Vargas';
 aLangKeys['ua']['name09-4']='Lorem ipsum consectetur.';
 aLangKeys['en']['name09-4']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text09-4']='The Principles Of Scientific Cooking';
 aLangKeys['ua']['text09-4']='Lorem ipsum consectetur.';
 aLangKeys['en']['text09-4']='Lit amet, consectetur.';
 
-aLangKeys['ru']['name09-5']='Ethel Vargas';
 aLangKeys['ua']['name09-5']='Lorem ipsum consectetur.';
 aLangKeys['en']['name09-5']='Lit amet, consectetur.';
 
-aLangKeys['ru']['text09-5']='The Principles Of Scientific Cooking';
 aLangKeys['ua']['text09-5']='Lorem ipsum consectetur.';
 aLangKeys['en']['text09-5']='Lit amet, consectetur.';
+
+aLangKeys['ua']['heading10']='Локація';
+aLangKeys['en']['heading10']='Location';
+
+aLangKeys['ua']['text10-1']='Харківська Школа Архітектури';
+aLangKeys['en']['text10-1']='Kharkiv School of Architecture';
+
+aLangKeys['ua']['text10-2']='вул. Конторська, 5 Харків, Україна';
+aLangKeys['en']['text10-2']='Kontorska St, 5';
+
+aLangKeys['ua']['heading11']='Партнери';
+aLangKeys['en']['heading11']='Partners';
+
+aLangKeys['ua']['heading12']='Lorem ipsum';
+aLangKeys['en']['heading12']='Ipsum dolorsit';
+
+aLangKeys['ua']['link-back']='Lorem ipsum';
+aLangKeys['en']['link-back']='Ipsum dolorsit';
+
+aLangKeys['ua']['text11']='Lorem ipsum dolor.';
+aLangKeys['en']['text11']='Lit amet, consectetur.';
 
 $(document).ready(function() {
 
@@ -285,7 +270,7 @@ $(document).ready(function() {
 
 		// translate all translatable elements
 		$('.tr').each(function(i){
-			$(this).text(aLangKeys[lang][ $(this).attr('key') ]);
+			$(this).text(aLangKeys[lang][ $(this).attr('data-key') ]);
 		});
 	});
 });
