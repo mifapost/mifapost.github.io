@@ -111,20 +111,20 @@ aLangKeys['en']['text06-4']='Lit amet, consectetur.';
 aLangKeys['ua']['heading07']='Призи';
 aLangKeys['en']['heading07']='Prizes';
 
-aLangKeys['ua']['text07-1']='Lorem ipsum consectetur.';
-aLangKeys['en']['text07-1']='Lit amet, consectetur.';
+aLangKeys['ua']['text07-1']='Smth good';
+aLangKeys['en']['text07-1']='Smth good';
 
-aLangKeys['ua']['text07-2']='Lorem ipsum consectetur.';
-aLangKeys['en']['text07-2']='Lit amet, consectetur.';
+aLangKeys['ua']['text07-2']='Very good ';
+aLangKeys['en']['text07-2']='Very good ';
 
-aLangKeys['ua']['text07-3']='Lorem ipsum consectetur.';
-aLangKeys['en']['text07-3']='Lit amet, consectetur.';
+aLangKeys['ua']['text07-3']='Well,okey ';
+aLangKeys['en']['text07-3']='Well,okey ';
 
 aLangKeys['ua']['heading08']='Жюрі';
 aLangKeys['en']['heading08']='Jury';
 
-aLangKeys['ua']['jury01-1']='ЕЛІС ТВЕМЛОУ';
-aLangKeys['en']['jury01-1']='ALICE TWEMLOW';
+aLangKeys['ua']['jury01-1']='Еліс Твемлоу';
+aLangKeys['en']['jury01-1']='Alice Twemlow';
 
 aLangKeys['ua']['jury01-2']='Історик, письменниця та дизайн критик';
 aLangKeys['en']['jury01-2']='Writer and Design critic';
@@ -135,8 +135,8 @@ aLangKeys['en']['jury01-3']='Alice Twemlow is co-chair of the SVA MA in Design R
 aLangKeys['ua']['jury01-4']='Еліс Твемлоу має ступінь PhD з "Історії дизайну" і в даний час розробляє свою докторську дисертацію з історії дизайнерської критики у книзі, яку буде опубліковано в MIT Press.';
 aLangKeys['en']['jury01-4']='She writes and lectures on design culture, and has recently contributed essays to Graphisme en France (CNAP, 2016), Iconic Designs: 50 Stories about 50 Things (Berg, 2014), Lolita—Story of a Cover Girl: Vladimir Nabokov’s Novel in Art and Design (Print, 2013), and The Aspen Complex(Sternberg Press, 2012).';
 
-aLangKeys['ua']['jury02-1']='ПАРІСА ТАШАКОРІ';
-aLangKeys['en']['jury02-1']='PARISA TASHAKORI';
+aLangKeys['ua']['jury02-1']='Паріса Ташакорі';
+aLangKeys['en']['jury02-1']='Parisa Tashakori';
 
 aLangKeys['ua']['jury02-2']='дизайнер-графік, арт-директор';
 aLangKeys['en']['jury02-2']='Graphic designer and Art director';
@@ -147,11 +147,11 @@ aLangKeys['en']['jury02-3']='Parisa Tashakori, Iranian graphic designer, art dir
 aLangKeys['ua']['jury02-4']='Дизайнерка народилась в Тегерані, але зараз мешкає в США/Колорадо. Має диплом Магістра з графічного дизайну і займається педагогічною діяльністю. З 2012- 2015 року була членом іранського товариства дизайнерів (IGDS). Приймала участь в  заснуванні іранського музею Графічного Дизайну. Як  куратор  деяких проектів та виставок  організувала  “Vitrine  ̶  історичну виставку іранських книжкових обкладинок  та  “Divarkoob” ̶ групові виставки в 5-ти містах Ірану. Має публікації на міжнародних веб-сайтах, книгах та журналах, таких як: Varoom, Design 360, 2 + 3D, Etapes, Neshan, Tandis, Tasvir, Kak та Adobe Magazine. Впродовж своєї кар’єри  брала  участь  більш ніж  в 50 національних та міжнародних виставках у різних країнах світу та була многоразовим призером національних і міжнародних фестивалів дизайну, на кшталт: міжнародна  Триєнале еко ̶ плакату “4-й Блок” в Україні, “Ekoplagat 05” у Словаччині, COW! дизайн фестиваль в Україні, конкурс інституту переробки матеріалу в Тегерані та інш.. Все частіше Парісу Ташакорі запрошують як члена журі національних та міжнародних бієнале та триєнале, тож в  квітні 2018 ми маємо за честь приймати її у нас на ювілейної 10-й триєнале.';
 aLangKeys['en']['jury02-4']='Now, she works as art director in her own studio in Colorado- Boulder, focusing primarily on social and cultural communication. Tashakori was a member of the board of the Iranian Graphic Designers Society (IGDS) and was in charge of the society exhibition section from 2012 to 2015. Parisa’s works has been exhibited over than 70 national and international exhibitions in various countries and has received some international awards. She has been member of the jury for numerous international competition and festivals like Bolivia Poster Biennial in La Paz, Lahti Poster Triennial in Finland, MUT ZUR WUT competition in Germany, Poster biennial in Mexico, “Silver Cypress” in Tehran, “Segunda Llamada” in Mexico, “Posterfortomorrow” in Paris , “Anti -AIDS” in Kharkov, Ukraine. She also has organized and carried out various cultural projects and workshops as well, individually or jointly with her friends, the most important of which include: Poland Graphic Design Week in two cities of Iran, Tehran-Taipei collective poster exhibition in Taiwan, Vitrine: A historical exhibition of Iranian book cover designs in Tehran, 2nd IGDS museum exhibition (selection of old Iranian theatre posters), Divarkoob: collective poster exhibition in 5 cities of Iran.';
 
-aLangKeys['ua']['jury03-1']='ПАОЛА ТРОКСЛЕР';
-aLangKeys['en']['jury03-1']='PAULA TROXLER';
+aLangKeys['ua']['jury03-1']='Паола Трокслер';
+aLangKeys['en']['jury03-1']='Paula Troxler';
 
-aLangKeys['ua']['jury03-2']='дизайнер та ілюстратор';
-aLangKeys['en']['jury03-2']='designer and illustrator';
+aLangKeys['ua']['jury03-2']='Дизайнер та ілюстратор';
+aLangKeys['en']['jury03-2']='Designer and illustrator';
 
 aLangKeys['ua']['jury03-3']='Паола Трокслер дизайнер та иллюстратор.  Походить з родини одного з найвідоміших швейцарських дизайнерів-графіків сьогодення – Ніклауса Трокслера, класика джазового плаката.  Безсумнівно, Паола не тільки перейняла  талант свого батька і  продовжує втілювати закладені їм ідеї, але й винайшла свій унікальний стиль. Вона вдало маніпулює  з елементами hand-made, шрифтом та зображенням.  Майстриня  реалізує свій талант в різних середовищах, починаючи від створення та редакційної роботи німецьких журналів до розробки айдентикі для джазових фестивалів та театральних постановок, і кожного разу їй вдається зберегти ту харизматичну грайливість, що порушує традиційні стереотипи сучасного швейцарського плаката.';
 aLangKeys['en']['jury03-3']='Paula Troxler is a designer and illustrator. She is a daughter of one of the most famous Swiss graphic designers nowdays –  Niklaus Troxler,  a classic of jazz poster. Undoubtedly, Paola not only inherited her father’s talent continuing to implement his ideas, but invented his unique style also. She  manipulates  with hand-made elements, fonks and images successfully.Her work crosses several mediums, from zine-making and editorial work for German magazines to designing identities for jazz festivals and theatre productions, and in each and every one of her pieces she manages to retain the same charismatic playfulness  breaking the traditional stereotypes of the modern Swiss poster.';
@@ -163,16 +163,16 @@ aLangKeys['ua']['jury03-5']='Серед професійних нагород �
 aLangKeys['en']['jury03-5']='Some of the professional awards – Special Prize at the International Biennial of the Poster in Korea (2005), First Prize at the International Biennial of the Ragoshove Theater Poster (2007), Jagda Excellent Award Award at the International Biennial Posters in Taiwan (2007), Tokyo Font Designers Club Award Type Directors Club (2007, 2009, 2010), New York Typewriters Club Type Designers Club (2007, 2009). Laureate “Golden Bee” (2010). Honorary Member of the “Golden Bee” Jury (2012).';
 
 aLangKeys['ua']['jury04-1']='Майя Вольна';
-aLangKeys['en']['jury04-1']='MAJA WOLNA';
+aLangKeys['en']['jury04-1']='Maja Wolna';
 
-aLangKeys['ua']['jury04-2']='художник-графік, дизайнер, ілюстратор';
-aLangKeys['en']['jury04-2']='artist, designer, illustrator';
+aLangKeys['ua']['jury04-2']='Художник-графік, дизайнер, ілюстратор';
+aLangKeys['en']['jury04-2']='Artist, designer, illustrator';
 
 aLangKeys['ua']['jury04-3']='Майя Вольна – художник-графік, дизайнер, ілюстратор,  яка представляє молоде покоління польських дизайнерів-прінтмейкерів.  Отримавши  диплом магістра образотворчого мистецтва в Познанський Академії  мистецтв, Майя викладає  в провідних учбових закладах Польщі, серед яких: Познанський Університет Мистецтв, Варшавська школа інформатикі та Варшавська школа фотографії і графічного дизайну. Майстриня  реалізує свій талант в різних середовищах, і в даний час вона працює з відеоартом та експериментує із своїм голосом. Майя багато уваги приділяє соціальній проблематиці. ЇЇ основні інтереси  вирують навколо феномена життя, людини, світу, духовності та космосу. Роботи дизайнерки приймають участь у багатьох міжнародних конкурсах мистецтва, групових та індивідуальних виставках по всьому світу, де дістають головні нагороди та призи. Серед найвидатніших перемог Майї можна назвати отримання золотої медалі з 22-го міжнародного  бієнале плакатів в Варшаві у 2010 р.,  та Гран-Прі  з міжнародного конкурсу плаката «Анти СНІД-Україна»  у 2006 році.';
 aLangKeys['en']['jury04-3']='Maja Volna is a graphic-designer, illustrator who is representing the younger generation of Polish designers  and  printmakers. Studied at Fine Arts Academy in Poznan. Obtained Diploma MA Fine Arts in Graphic Department at Fine Arts Academy in Poznan. Nowadays she is  working at the University of Art in Poznan at Animation Department and at the High School of the Computer Science and the Management in Warsaw at Graphic Department. She also works at the Warsaw School of Photography and Graphic Design. The artist implements her talent in defferent ways: posters, graphics, paintings, illustrations, collages are part of her artistic work. Currently she is working with new forms of artistic expression like video art and experimentig with her voice. Maja pays much attention to social issues. Her main interests are concentrated around the phenomenon of life, human, peace, spirituality and space. Maja takes part in many international art contests, group and individual exhibitions all over the world.  Among the most prominent victories of Maja is the receipt of a gold medal from the 22nd International Biennale of Poster in Warsaw 2010, and the Grand Prix in the international competition "Anti AIDS-Ukraine" 2006.';
 
-aLangKeys['ua']['jury05-1']='ТЕТЯНА БОРЗУНОВА';
-aLangKeys['en']['jury05-1']='TETYANA BORZUNOVA';
+aLangKeys['ua']['jury05-1']='Тетяна Борзунова';
+aLangKeys['en']['jury05-1']='Tetyana Borzunova';
 
 aLangKeys['ua']['jury05-2']='Графік-дизайнер, арт-директор';
 aLangKeys['en']['jury05-2']='Graphic designer, art director';
@@ -246,20 +246,20 @@ aLangKeys['en']['heading10']='Location';
 aLangKeys['ua']['text10-1']='Харківська Школа Архітектури';
 aLangKeys['en']['text10-1']='Kharkiv School of Architecture';
 
-aLangKeys['ua']['text10-2']='вул. Конторська, 5 Харків, Україна';
+aLangKeys['ua']['text10-2']='вул. Конторська, 5';
 aLangKeys['en']['text10-2']='Kontorska St, 5';
 
 aLangKeys['ua']['heading11']='Партнери';
 aLangKeys['en']['heading11']='Partners';
 
-aLangKeys['ua']['heading12']='Lorem ipsum';
-aLangKeys['en']['heading12']='Ipsum dolorsit';
+aLangKeys['ua']['heading12']='організатори';
+aLangKeys['en']['heading12']='Organizers';
 
-aLangKeys['ua']['link-back']='Lorem ipsum';
-aLangKeys['en']['link-back']='Ipsum dolorsit';
+aLangKeys['ua']['link-back']='НА ГОЛОВНУ TRIENNIAL';
+aLangKeys['en']['link-back']='TO THE MAIN TRIENNIAL';
 
-aLangKeys['ua']['text11']='Lorem ipsum dolor.';
-aLangKeys['en']['text11']='Lit amet, consectetur.';
+aLangKeys['ua']['text11']='ХША, вул. Конторська, 5';
+aLangKeys['en']['text11']='KSA, Kontorska St, 5';
 
 $(document).ready(function() {
 
