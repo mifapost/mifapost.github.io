@@ -1280,7 +1280,8 @@ address {
   height: 450px;
 }
 
-.location-section .map-holder .map {
+.location-section .map-holder iframe {
+  border: 0;
   width: 100%;
   height: 100%;
 }
