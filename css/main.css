@@ -1006,7 +1006,7 @@ address {
     padding: 30px 0;
     z-index: 1;
     background: #eee url(../images/bg02.png) no-repeat;
-    background-size: 100%; }
+    background-size: cover; }
     @media (min-width: 1024px) {
       .stage-section h2 {
         padding: 45px 0;
