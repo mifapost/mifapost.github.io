@@ -647,7 +647,8 @@ address {
       letter-spacing: 2px;
       padding: 23px 20px; } }
   .btn:hover {
-    color: #fff; }
+    color: #fff;
+    text-decoration: none; }
 
 .social-list {
   font-size: 20px;
@@ -664,6 +665,8 @@ address {
         padding-left: 34px; } }
   .social-list a {
     color: #fff; }
+    .social-list a:hover {
+      text-decoration: none; }
 
 .hero-section {
   padding: 106px 0 179px;
@@ -866,12 +869,8 @@ address {
     z-index: 1; }
 
 .img-holder {
-  position: relative;
-  margin: 0 -15px;
+  margin: 0 auto;
   max-width: 520px; }
-  @media (max-width: 767px) {
-    .img-holder {
-      padding: 0 15px; } }
   @media (max-width: 1023px) {
     .img-holder {
       overflow: hidden; } }
@@ -1272,7 +1271,8 @@ address {
     width: 141px;
     height: 141px;
     border-radius: 50%;
-    overflow: hidden; }
+    overflow: hidden;
+    box-shadow: 0 20px 17px -24px #0c0c0c; }
   .mentor-list .name {
     display: block;
     font-size: 18px;
@@ -1398,6 +1398,8 @@ address {
         padding: 0 21px 49px; } }
   .logo-list a {
     display: block; }
+    .logo-list a:hover {
+      text-decoration: none; }
 
 .link-section {
   padding: 39px 0;
@@ -1416,6 +1418,8 @@ address {
       .link-section a {
         padding-left: 140px;
         font-size: 20px; } }
+    .link-section a:hover {
+      text-decoration: none; }
     .link-section a:before {
       position: absolute;
       content: "";
@@ -1514,7 +1518,7 @@ address {
   float: right;
   width: 34px;
   height: 32px;
-  margin: 10px 8px 10px 0;
+  margin: 10px 8px 10px 15px;
   z-index: 4; }
   .nav-opener:hover {
     opacity: .9; }
@@ -1635,7 +1639,8 @@ address {
     .main-nav a.anchor-active {
       color: #000; }
     .main-nav a:hover {
-      color: #606060; }
+      color: #606060;
+      text-decoration: none; }
       @media (min-width: 1024px) {
         .main-nav a:hover {
           color: #000; } }
@@ -1650,7 +1655,7 @@ address {
   font-family: "Pragmatica Condensed", "Helvetica", sans-serif; }
   @media (max-width: 1023px) {
     .language-list {
-      margin-top: 16px; } }
+      margin-top: 14px; } }
   @media (min-width: 1200px) {
     .language-list {
       padding: 0 16px 33px 0; } }
@@ -1723,13 +1728,16 @@ address {
       display: block;
       margin-bottom: 15px; } }
   #footer a {
-    color: #fff; }
+    color: #fff;
+    -webkit-transition: color .3s;
+    transition: color .3s; }
     @media (max-width: 767px) {
       #footer a {
         display: block;
         margin-bottom: 15px; } }
     #footer a:hover {
-      color: #c49272; }
+      color: #c49272;
+      text-decoration: none; }
   #footer .social-list {
     font-size: 24px; }
     @media (max-width: 767px) {
