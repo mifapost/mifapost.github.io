@@ -67,13 +67,13 @@ aLangKeys['ua']['heading04']='Напрямки';
 aLangKeys['en']['heading04']='Directions';
 
 aLangKeys['ua']['text04-1']='Інновації в інфраструктурі міста';
-aLangKeys['en']['text04-1']='Інновації в інфраструктурі міста';
+aLangKeys['en']['text04-1']='Innovations in the city infrastructure';
 
 aLangKeys['ua']['text04-2']='Відповідальне ставлення до тварин та рослин у місті';
-aLangKeys['en']['text04-2']='Відповідальне ставлення до тварин та рослин у місті';
+aLangKeys['en']['text04-2']='Responsible attitude to animals and plants in the city';
 
 aLangKeys['ua']['text04-3']='Раціональне споживання та виробництво';
-aLangKeys['en']['text04-3']='Раціональне споживання та виробництво';
+aLangKeys['en']['text04-3']='Rational consumption and production';
 
 // aLangKeys['ua']['text04-4']='Відповідальне споживання та виробництво';
 // aLangKeys['en']['text04-4']='Responsible consumption and production';
@@ -112,151 +112,140 @@ aLangKeys['ua']['heading07']='Призи';
 aLangKeys['en']['heading07']='Prizes';
 
 aLangKeys['ua']['text07-1']='Тест-драйв електрокара від';
-aLangKeys['en']['text07-1']='Тест-драйв електрокара від';
+aLangKeys['en']['text07-1']='Test drive electric car from';
 
 aLangKeys['ua']['text07-2']='Сертифікат на 10000 грн від';
-aLangKeys['en']['text07-2']='Сертифікат на 10000 грн від';
+aLangKeys['en']['text07-2']='Certificate for 10000 UAH from';
 
-aLangKeys['ua']['link07-2']='Велопланети';
-aLangKeys['en']['link07-2']='Велопланети';
+aLangKeys['ua']['link07-2-2']='Велопланети';
+aLangKeys['en']['link07-2-2']='Veloplaneta';
 
-aLangKeys['ua']['text07-3']='Авторскькі шмотки';
-aLangKeys['en']['text07-3']='Авторскькі шмотки';
+aLangKeys['ua']['text07-3']='Ресайкл аксесуари від Dushka-Karamushka та ';
+aLangKeys['en']['text07-3']='Recirlce accessories from Dushka-Karamushka and ';
 
 aLangKeys['ua']['heading07-2']='ГРАН-ПРі';
 aLangKeys['en']['heading07-2']='ГРАН-ПРі';
 
-aLangKeys['ua']['text07-4']='«Stingray» от';
-aLangKeys['en']['text07-4']='«Stingray» от';
-
-aLangKeys['ua']['text07-5']='с гравировкой логотипа хакатона';
-aLangKeys['en']['text07-5']='с гравировкой логотипа хакатона';
+aLangKeys['ua']['text07-4']='Унікальна едиція «Stingray» від';
+aLangKeys['en']['text07-4']='The unique edition "Stingray" from';
 
 aLangKeys['ua']['heading08']='Жюрі';
 aLangKeys['en']['heading08']='Jury';
 
-aLangKeys['ua']['jury01-1']='Адан Баррера';
-aLangKeys['en']['jury01-1']='Адан Баррера';
+aLangKeys['ua']['jury01-1']='Адан Парадес Баррера (La Concepción, Veracruz, 1982)';
+aLangKeys['en']['jury01-1']='Adán Paredes Barrera (La Concepción, Veracruz, 1982)';
 
-aLangKeys['ua']['jury01-2']='Писательница и Дизайн критик';
-aLangKeys['en']['jury01-2']='Писательница и Дизайн критик';
+aLangKeys['ua']['jury01-2']='Дизайнер-графік, арт-директор';
+aLangKeys['en']['jury01-2']='Graphic designer, art director';
 
-aLangKeys['ua']['jury01-3']='Історик, письменниця та дизайн критик, яка пише та читає лекції з усіх аспектів дизайнерської культури, але особливу увагу приділяє графічному  дизайну. Еліс Твемлоу є лектором в KABK/Leiden University, співголовою магістерської програми  в School of Visual Arts (New York) та одним з керівників Академії Дизайну в  Eindhoven. Пише лекції та викладає в Victoria & AlbertMuseum  і  Royal College of Art в Лондоні.';
-aLangKeys['en']['jury01-3']='Alice Twemlow is co-chair of the SVA MA in Design Research, Writing & Criticism in New York, and co-head of the MA in Design Curating & Writing at Design Academy Eindhoven. Twemlow has a Ph.D from the History of Design program run jointly by the Victoria & Albert Museum and the Royal College of Art in London, and is currently developing her doctoral thesis about the history of design criticism into a book to be published by MIT Press.';
-
-aLangKeys['ua']['jury01-4']='Еліс Твемлоу має ступінь PhD з "Історії дизайну" і в даний час розробляє свою докторську дисертацію з історії дизайнерської критики у книзі, яку буде опубліковано в MIT Press.';
-aLangKeys['en']['jury01-4']='She writes and lectures on design culture, and has recently contributed essays to Graphisme en France (CNAP, 2016), Iconic Designs: 50 Stories about 50 Things (Berg, 2014), Lolita—Story of a Cover Girl: Vladimir Nabokov’s Novel in Art and Design (Print, 2013), and The Aspen Complex(Sternberg Press, 2012).';
+aLangKeys['ua']['jury01-3']='Здобув освіту в Universidad Veracruzana, в Халапі зі спеціалізації Візуальний комунікативний дизайн. Починаючи з 2007 року він створює плакати, та має постійну і видатну участь у змаганнях, бієнале та триєнале. Його роботи були відібрані, нагороджені та виставлені в Мексиці, Македонії, Сербії, Китаї, Польщі, Росії, Болівії, Чехії, Україні та Італії. У 2013 році він отримав спеціальну премію ICOGRADA, та Міжнародну премію дизайну в Тайбей. Адан практикує як викладач, час від часу організує семінари та читає лекції. У 2016 році він був членом відбіркового комітету в Міжнародній дизайнерській бієнале «STRELKA» в Росії. Цього ж року його роботи були відібрані для Еквадорської Бієнале Плаката, Бієнале «Golden Bee» в Росії та проекту «Все золото Світу». Зараз він здобуває ступінь з образотворчого мистецтва на факультеті пластичних мистецтв в Universidad Veracruzana, де є частиною академічного відділу ARTE Y TRANSDISCIPLINA UV-CA-385 (2015-2016).';
+aLangKeys['en']['jury01-3']='He completed three years of studies in Visual Communication Design at the Universidad Veracruzana, in Xalapa. In 2007 he started designing posters. Since then he has had a constant and outstanding participation in competitions, biennials and poster triennials. His work has beenselected, awarded and exhibited in Mexico, Macedonia, Serbia, China, Poland, Russia, Bolivia, Czech Republic, Ukraine and Italy. In 2013 he obtained the ICOGRADA Special Award in the Taipei International Design Award. He has organized poster exhibitions, given workshops and given lectures in some cities of the country. He is a member of the pre-selection committee of STRELKA International designbiennale 2016 of Russia; as well as selected in the Ecuador Biennial Poster and Golden Bee Global Biennale of GraphicDesign, being part of the project All Gold of the World this year. He iscurrently studying a Visual Arts degree at the Faculty of Plastic Arts of the Universidad Veracruzana, where he is part of the Academic departmet of ARTE Y TRANSDISCIPLINA UV-CA-385 (2015-2016) and has been a school counselor since 2016.';
 
 aLangKeys['ua']['jury02-1']='Чао Янг';
-aLangKeys['en']['jury02-1']='Чао Янг';
+aLangKeys['en']['jury02-1']='Yang Chao';
 
-aLangKeys['ua']['jury02-2']='дизайнер-графік, арт-директор';
+aLangKeys['ua']['jury02-2']='Дизайнер-графік, арт-директор';
 aLangKeys['en']['jury02-2']='Graphic designer and Art director';
 
-aLangKeys['ua']['jury02-3']='Неймовірної краси жінка, висококласний дизайнер-графік, арт-директор із своїм визначеним індивідуальним почерком, та чітко проявленим інтересом до соціальної проблематики. Все це доцільно характеризує представницю молодого покоління іранської школи плаката  ̶  Парісу Ташакорі.';
-aLangKeys['en']['jury02-3']='Parisa Tashakori, Iranian graphic designer, art director and curator, was born in Tehran, Iran, where she was graduated in Graphic Design (BA, MA) from Azad University of Tehran and was granted an honorary doctorate from the Ministry of Culture and Islamic Guidance. During her career she has collaborated as designer and art director for several international advertising agencies and cultural institutions.';
+aLangKeys['ua']['jury02-3']='Доцент кафедри медіа та комунікацій Університету Чжецзян, член Дирекційного клубу Нью-Йорк, США (NY ADC), член Міжнародної ради графічного дизайну (ico-D), національний комітет Член Асоціації дизайнерів упаковки Китаю, директор візуальної дизайнерської групи Yang Chao.';
+aLangKeys['en']['jury02-3']='Associate Professor at Zhejiang University of Media and Communications, member of the Art Directors Club New York, USA (NY ADC) Member of the International Council of Graphic Design (ico-D), National Committee Member of the Packaging Design Association of China, Director of the Yang Chao Visual Design Team.';
 
-aLangKeys['ua']['jury02-4']='Дизайнерка народилась в Тегерані, але зараз мешкає в США/Колорадо. Має диплом Магістра з графічного дизайну і займається педагогічною діяльністю. З 2012- 2015 року була членом іранського товариства дизайнерів (IGDS). Приймала участь в  заснуванні іранського музею Графічного Дизайну. Як  куратор  деяких проектів та виставок  організувала  “Vitrine  ̶  історичну виставку іранських книжкових обкладинок  та  “Divarkoob” ̶ групові виставки в 5-ти містах Ірану. Має публікації на міжнародних веб-сайтах, книгах та журналах, таких як: Varoom, Design 360, 2 + 3D, Etapes, Neshan, Tandis, Tasvir, Kak та Adobe Magazine. Впродовж своєї кар’єри  брала  участь  більш ніж  в 50 національних та міжнародних виставках у різних країнах світу та була многоразовим призером національних і міжнародних фестивалів дизайну, на кшталт: міжнародна  Триєнале еко ̶ плакату “4-й Блок” в Україні, “Ekoplagat 05” у Словаччині, COW! дизайн фестиваль в Україні, конкурс інституту переробки матеріалу в Тегерані та інш.. Все частіше Парісу Ташакорі запрошують як члена журі національних та міжнародних бієнале та триєнале, тож в  квітні 2018 ми маємо за честь приймати її у нас на ювілейної 10-й триєнале.';
-aLangKeys['en']['jury02-4']='Now, she works as art director in her own studio in Colorado- Boulder, focusing primarily on social and cultural communication. Tashakori was a member of the board of the Iranian Graphic Designers Society (IGDS) and was in charge of the society exhibition section from 2012 to 2015. Parisa’s works has been exhibited over than 70 national and international exhibitions in various countries and has received some international awards. She has been member of the jury for numerous international competition and festivals like Bolivia Poster Biennial in La Paz, Lahti Poster Triennial in Finland, MUT ZUR WUT competition in Germany, Poster biennial in Mexico, “Silver Cypress” in Tehran, “Segunda Llamada” in Mexico, “Posterfortomorrow” in Paris , “Anti -AIDS” in Kharkov, Ukraine. She also has organized and carried out various cultural projects and workshops as well, individually or jointly with her friends, the most important of which include: Poland Graphic Design Week in two cities of Iran, Tehran-Taipei collective poster exhibition in Taiwan, Vitrine: A historical exhibition of Iranian book cover designs in Tehran, 2nd IGDS museum exhibition (selection of old Iranian theatre posters), Divarkoob: collective poster exhibition in 5 cities of Iran.';
+aLangKeys['ua']['jury02-4']='Суддя та досвід куратора:';
+aLangKeys['en']['jury02-4']='Judge and Curator Experience:';
 
-aLangKeys['ua']['jury03-1']='Спасов';
-aLangKeys['en']['jury03-1']='Спасов';
 
-aLangKeys['ua']['jury03-2']='Дизайнер та ілюстратор';
-aLangKeys['en']['jury03-2']='Designer and illustrator';
 
-aLangKeys['ua']['jury03-3']='Паола Трокслер дизайнер та иллюстратор.  Походить з родини одного з найвідоміших швейцарських дизайнерів-графіків сьогодення – Ніклауса Трокслера, класика джазового плаката.  Безсумнівно, Паола не тільки перейняла  талант свого батька і  продовжує втілювати закладені їм ідеї, але й винайшла свій унікальний стиль. Вона вдало маніпулює  з елементами hand-made, шрифтом та зображенням.  Майстриня  реалізує свій талант в різних середовищах, починаючи від створення та редакційної роботи німецьких журналів до розробки айдентикі для джазових фестивалів та театральних постановок, і кожного разу їй вдається зберегти ту харизматичну грайливість, що порушує традиційні стереотипи сучасного швейцарського плаката.';
-aLangKeys['en']['jury03-3']='Paula Troxler is a designer and illustrator. She is a daughter of one of the most famous Swiss graphic designers nowdays –  Niklaus Troxler,  a classic of jazz poster. Undoubtedly, Paola not only inherited her father’s talent continuing to implement his ideas, but invented his unique style also. She  manipulates  with hand-made elements, fonks and images successfully.Her work crosses several mediums, from zine-making and editorial work for German magazines to designing identities for jazz festivals and theatre productions, and in each and every one of her pieces she manages to retain the same charismatic playfulness  breaking the traditional stereotypes of the modern Swiss poster.';
+aLangKeys['ua']['jury02-5']='2016 рік: суддя на 6-й Міжнародній бієнале соціально-політичного плакату в Освенцимі, Польща';
+aLangKeys['en']['jury02-5']='2016: Judge for the 6th International Biennial of Socio-Political Poster in Oswiecim, Poland';
 
-aLangKeys['ua']['jury03-4']='У 2006 році закінчила Люцернський університет прикладного мистецтва і дизайну. З 2006 року працює у власних студіях в Люцерні, Берліні та Цюріху. З 2011 року – професор Університету прикладних наук FH Mainz в Німеччині. З 2015 року  має студію derhund.org разом з Клеоном Медугораком.';
-aLangKeys['en']['jury03-4']='In 2006,she graduated from the Lucerne University of Applied Arts and Design. Since 2006, she has been working at her own studios in Lucerne, Berlin and Zurich. Since 2011 – Professor at the University of Applied Sciences FH Mainz in Germany. Since 2015, has a studio derhund.org along with Cleon Medugorak.';
+aLangKeys['ua']['jury02-6']='2015, 2016: суддя китайської премії «Елемент» Китайського Міжнародного Фестивалю Реклами';
+aLangKeys['en']['jury02-6']='2015，2016:	Judge for the Chinese Element Award of China International Advertising Festival';
 
-aLangKeys['ua']['jury03-5']='Серед професійних нагород – Спеціальна премія на Міжнародній бієнале плаката в Кореї (2005), Перша премія на Міжнародній бієнале театрального плаката в Ржешове (2007), Премія «Jagda Excellent Award» на Міжнародній бієнале плаката на Тайвані (2007), Премія Токійського Клубу шрифтових дизайнерів Type Directors Club (2007, 2009, 2010), Премія Нью-Йоркського Клубу шрифтових дизайнерів Type Directors Club (2007, 2009). Лауреат «Golden Bee» (2010). Почесний член журі «Golden Bee» (2012).';
-aLangKeys['en']['jury03-5']='Some of the professional awards – Special Prize at the International Biennial of the Poster in Korea (2005), First Prize at the International Biennial of the Ragoshove Theater Poster (2007), Jagda Excellent Award Award at the International Biennial Posters in Taiwan (2007), Tokyo Font Designers Club Award Type Directors Club (2007, 2009, 2010), New York Typewriters Club Type Designers Club (2007, 2009). Laureate “Golden Bee” (2010). Honorary Member of the “Golden Bee” Jury (2012).';
+aLangKeys['ua']['jury02-7']='2016 рік: суддя та куратор конкурсу дизайну упаковки у Китаї';
+aLangKeys['en']['jury02-7']='2016: Judge and Curator for the China Packaging Design Competition';
 
-aLangKeys['ua']['jury04-1']='Спасов';
-aLangKeys['en']['jury04-1']='Спасов';
 
-aLangKeys['ua']['jury04-2']='Художник-графік, дизайнер, ілюстратор';
-aLangKeys['en']['jury04-2']='Artist, designer, illustrator';
+aLangKeys['ua']['jury02-8']='2016: Куратор 1-го Міжнародного дизайнерського бієнале у Веньчжоу, Веньчжоу, Китай';
+aLangKeys['en']['jury02-8']='2016: Curator for the 1st Wenzhou International Design Biennial, Wenzhou, China';
 
-aLangKeys['ua']['jury04-3']='Майя Вольна – художник-графік, дизайнер, ілюстратор,  яка представляє молоде покоління польських дизайнерів-прінтмейкерів.  Отримавши  диплом магістра образотворчого мистецтва в Познанський Академії  мистецтв, Майя викладає  в провідних учбових закладах Польщі, серед яких: Познанський Університет Мистецтв, Варшавська школа інформатикі та Варшавська школа фотографії і графічного дизайну. Майстриня  реалізує свій талант в різних середовищах, і в даний час вона працює з відеоартом та експериментує із своїм голосом. Майя багато уваги приділяє соціальній проблематиці. ЇЇ основні інтереси  вирують навколо феномена життя, людини, світу, духовності та космосу. Роботи дизайнерки приймають участь у багатьох міжнародних конкурсах мистецтва, групових та індивідуальних виставках по всьому світу, де дістають головні нагороди та призи. Серед найвидатніших перемог Майї можна назвати отримання золотої медалі з 22-го міжнародного  бієнале плакатів в Варшаві у 2010 р.,  та Гран-Прі  з міжнародного конкурсу плаката «Анти СНІД-Україна»  у 2006 році.';
-aLangKeys['en']['jury04-3']='Maja Volna is a graphic-designer, illustrator who is representing the younger generation of Polish designers  and  printmakers. Studied at Fine Arts Academy in Poznan. Obtained Diploma MA Fine Arts in Graphic Department at Fine Arts Academy in Poznan. Nowadays she is  working at the University of Art in Poznan at Animation Department and at the High School of the Computer Science and the Management in Warsaw at Graphic Department. She also works at the Warsaw School of Photography and Graphic Design. The artist implements her talent in defferent ways: posters, graphics, paintings, illustrations, collages are part of her artistic work. Currently she is working with new forms of artistic expression like video art and experimentig with her voice. Maja pays much attention to social issues. Her main interests are concentrated around the phenomenon of life, human, peace, spirituality and space. Maja takes part in many international art contests, group and individual exhibitions all over the world.  Among the most prominent victories of Maja is the receipt of a gold medal from the 22nd International Biennale of Poster in Warsaw 2010, and the Grand Prix in the international competition "Anti AIDS-Ukraine" 2006.';
+
+aLangKeys['ua']['jury02-9']='2015: 2015 Shenzhen Culture Fair Design Competition';
+aLangKeys['en']['jury02-9']='2015: Judge for the 2015 Shenzhen Culture Fair Design Competition';
+
+aLangKeys['ua']['jury02-10']='2015, 2017 рік: суддя Italian A’ Design Award and Competition';
+aLangKeys['en']['jury02-10']='2015, 2017:	Judge for the Italian A’ Design Award and Competition';
+
+aLangKeys['ua']['jury02-11']='2014, 2016: Куратор виставки AGDIE Азіатська міжнародна виставка графічного дизайну ';
+aLangKeys['en']['jury02-11']='2014, 2016:	Curator for the AGDIE Asian International Graphic Design Exhibition';
+
+aLangKeys['ua']['jury02-12']='2013: Суддя конкурсу мистецтв дизайну реклами в Китаї Цзянси';
+aLangKeys['en']['jury02-12']='2013: Judge for the China Jiangxi Advertising Design Art Competition';
+
+aLangKeys['ua']['jury02-13']='2010 — 2013: суддя з дизайнерського конкурсу коледжу мистецтв та дизайну Цзянси';
+aLangKeys['en']['jury02-13']='2010 — 2013: Judge for the Art and Design Contest of Jiangxi College';
+
+aLangKeys['ua']['jury02-14']='Нагороди та досягнення:';
+aLangKeys['en']['jury02-14']='Awards and Achievements:';
+
+aLangKeys['ua']['jury02-15']='2017 рік: Італія Design Award and Competition, Gold Award';
+aLangKeys['en']['jury02-15']='2017: Italy A’ Design Award and Competition, Gold Award';
+
+aLangKeys['ua']['jury02-16']='2017: Франція конкурс дизайнерів плакатів «Poster for Tomorrow», 10 найкращих у 6993 роботах';
+aLangKeys['en']['jury02-16']='2017: France «Poster for Tomorrow» poster design Competition, Top 10 in 6993 works';
+
+aLangKeys['ua']['jury02-17']='2016: Німеччина Премія за концепцію дизайну Red dot';
+aLangKeys['en']['jury02-17']='2016: Germany Red dot Concept Design Award';
+
+aLangKeys['ua']['jury02-18']='2016: Los Angeles the International Design Awards (IDA), Золотий приз і срібний приз';
+aLangKeys['en']['jury02-18']='2016: Los Angeles the International Design Awards (IDA) Golden Prize and Silver Prize';
+
+aLangKeys['ua']['jury02-19']='2016 року: Китайський конкурс дизайну упаковки, Золота премія';
+aLangKeys['en']['jury02-19']='2016: China Packaging Design Contest, Gold Award';
 
 aLangKeys['ua']['jury05-1']='Олексій Рибаков';
-aLangKeys['en']['jury05-1']='Олексій Рибаков';
+aLangKeys['en']['jury05-1']='Alexey Rybakov';
 
-aLangKeys['ua']['jury05-2']='Графік-дизайнер, арт-директор';
-aLangKeys['en']['jury05-2']='Graphic designer, art director';
+aLangKeys['ua']['jury05-2']='Технічний консультант, Senior програміст в DataArt';
+aLangKeys['en']['jury05-2']='Technical Advisor, Senior Software Engineer at DataArt';
 
-aLangKeys['ua']['jury05-3']='У 2006 році здобула диплом магістра графічного дизайну Харківської Державної Академії Дизайну та Мистецтв. Разом із партнером Сергієм Мішакіним, вже понад 10 років керує однією з провідних дизайнерських студій України – 3Z. Студія працює в міжнародному масштабі й фокусується на графічному та комунікативному дизайні, корпоративній айдентиці, візуальному брендингу, книгах. Найбільш резонансними проектами студії можна назвати: логотип до Дня Перемоги «Ніколи Знову», та корпоративну айдентику для «Міністерства Закордонних Справ України». Роботи Тетяни легко впізнаванні, адже мають свій вишуканий стиль у вигляді вдалого поєднання форм та шрифтів, де максимальна виразність досягається коштом мінімальних художніх засобів та контрастів. Сама ж Тетяна коментує, що кожне візуальне рішення базується на ґрунтовному дослідженні матеріалу та концептуальній ідеї, після чого все зайве відсікається, доки не буде знайдений мінімально необхідний символ для комунікації. Окрім бізнес проектів, дизайнерка багато працює в культурному просторі, серед яких: Swap UK/Ukraine project for British Council, Identity for Malevich Award 2016, Фестиваль соціальних ініціатив та нової музики Plan B, Zajazz 2010 та інші.';
-aLangKeys['en']['jury05-3']='In 2006, she received a Master’s degree in Graphic Design at the Kharkiv State Academy of Design and Arts. For over 10 years, together with the partner Sergey Mishakin she has been managing one of the leading design studios in Ukraine – 3Z. The studio works internationally and focuses on providing services of graphic and communication design, corporate identity, visual branding, posters and books. The most resonant projects of the studio are: a logo to the Victory Day “Never Again”, and a corporate identity for the “Ministry of Foreign Affairs of Ukraine”. The works of Tatiana are easily recognized, with her elegant style and successful combination of forms and fonts, where maximum expressiveness is achieved at the expense of minimal artistic tools and contrasts. Tatiana says that each visual solution of her work is based on a solid study of the material and a conceptual idea, after which all the superfluous is cut off until the minimal necessary symbol for communication is found. In addition to business projects, the designer has a lot of cultural work, including Swap UK / Ukraine project for the British Council, Identity for Malevich Award 2016, Plan of Social Initiatives and New Music Festival Plan B, Zajazz 2010, and others.';
+aLangKeys['ua']['jury05-3']='З 2011 року в DataArt він працює над проектами, пов\'язаними з мобільним та десктоп розробками. Також знайомий з розробкою смарт-годинників (watchOS / Android Wear / Tizen), та TV-девелопментом: tvOS, android TV та інших. Протягом останніх двох років працює над проектами в області змішаної реальності (AR / VR).';
+aLangKeys['en']['jury05-3']='Since 2011 at DataArt he has been working on projects connected with mobile and embedded development. He is familiar with  watch development ( watchOS/ Android Wear / Tizen), tv development: tvOS, android TV etc. During last two years he has been working on projects in Mixed Reality area (AR/VR)';
 
-aLangKeys['ua']['jury05-4']='Тетяна Борзунова є багаторазовим учасником плакатних виставок, лауреатом дизайнерських фестивалів та конкурсів:';
-aLangKeys['en']['jury05-4']='She is a participant of numerous poster exhibitions, laureate of design festivals and competitions:';
+aLangKeys['ua']['jury05-4']='Олексій має величезний досвід розробки для мобільних платформ (PalmOS, Windows CE, j2me, iOS).	До DataArt протягом майже 11 років працював в різних компаніях з розробки ігор. У «Gameloft» досяг рівня Senior розробника, координатора програмування та головного програміста Харківсьго офісу.';
+aLangKeys['en']['jury05-4']='Alexey has huge game development experience for mobile platforms ( PalmOS. Windows CE, j2me, iOS). Before DataArt for almost 11 years he has worked in different game development companies. At Gameloft he grew up from Senior Developer/Programming Coordinator to Kharkov\'s Studio Lead Programmer';
 
-aLangKeys['ua']['jury05-5']='2016 «Дизайн і Криза» плакатна виставка в рамках фестивалю Plaster. Торунь. Польща.';
-aLangKeys['en']['jury05-5']='2016 “Design and Crisis” is a poster exhibition within the framework of the Plaster Festival. Torun Poland';
+aLangKeys['ua']['jury05-5']='Як Технічний Євангеліст в DataArt, є ініціатором багатьх публічних виступів та обміну досвідом через конференції та публікації в блозі. Протягом останніх шести років він бере участь як доповідач в GDG DevFests, Droidcon, Mobius, IT NonStop, IT Talk (налічує понад 60 публічних виступів).';
+aLangKeys['en']['jury05-5']='As a Technical Evangelist at DataArt he enjoys public speaking and sharing his experience through conferences and blog posts. Within last 6 years he has been participating as a speaker in GDG DevFests, Droidcon, Mobius, IT NonStop, IT Talk conferences (has more than 60 public speeches)';
 
-aLangKeys['ua']['jury05-6']='2007 «Eidos 2006/07» спеціальна нагорода від журі. Київ. Україна';
-aLangKeys['en']['jury05-6']='2007 “Eidos 2006/07” special award from the jury. Kiev. Ukraine';
-
-aLangKeys['ua']['jury05-7']='2006 VI Міжнародна триєнале еко-плакату «4-й БЛОК». Харків. Україна';
-aLangKeys['en']['jury05-7']='2006 VI International Triennial of eco-poster “4th BLOCK”. Kharkiv Ukraine';
-
-aLangKeys['ua']['jury05-8']='2005 Проект П. Макова «Utopia. Хроніки. 1992-2005 рр». Харків. Україна';
-aLangKeys['en']['jury05-8']='2005 P.Makov project “Utopia. Chronicles 1992-2005 years “. Kharkiv Ukraine';
-
-aLangKeys['ua']['jury05-9']='2004 Міжнародне бієнале графічного дизайну у Brno. Moravian gallery. Чехія';
-aLangKeys['en']['jury05-9']='2004 International Graphic Design Biennial in Brno. Moravian gallery. Czech Republic';
-
-aLangKeys['ua']['jury05-10']='2004 Міжнародне бієнале графічного дизайну «Golden Bee» Москва, Росія';
-aLangKeys['en']['jury05-10']='2004 International Biennale of Graphic Design “Golden Bee” Moscow, Russia';
-
-aLangKeys['ua']['jury05-11']='2004 Міжнародний конкурс екологічних постерів «FUR PUR». Франція';
-aLangKeys['en']['jury05-11']='2004 International contest of ecological poster “FUR PUR”. France';
-
-aLangKeys['ua']['jury05-12']='2003 V міжнародна триєнале еко-плакату «4-й БЛОК». Харків. Україна';
-aLangKeys['en']['jury05-12']='2003 V International Triennial of eco-poster “4th BLOCK”. Kharkiv Ukraine';
+aLangKeys['ua']['jury05-6']='Співзасновник Kharkiv-Center Google Developer Group.';
+aLangKeys['en']['jury05-6']='Co-Organizer Kharkiv-Center Google Developer Group.';
 
 aLangKeys['ua']['heading09']='Ментори';
 aLangKeys['en']['heading09']='Mentors';
 
-aLangKeys['ua']['name09-1']='Ірина Сальник';
-aLangKeys['en']['name09-1']='Ірина Сальник';
+aLangKeys['ua']['name09-1']='Олексій Гапченко';
+aLangKeys['en']['name09-1']='Oleksii Gapchenko';
 
-aLangKeys['ua']['text09-1']='Lorem ipsum consectetur.';
-aLangKeys['en']['text09-1']='Lorem ipsum consectetur.';
+aLangKeys['ua']['text09-1']='Програміст';
+aLangKeys['en']['text09-1']='Programmer';
 
 aLangKeys['ua']['name09-2']='Михайло Постольний';
-aLangKeys['en']['name09-2']='Михайло Постольний';
+aLangKeys['en']['name09-2']='Mikhailo Postolnyi';
 
 aLangKeys['ua']['text09-2']='UX';
 aLangKeys['en']['text09-2']='UX';
 
-aLangKeys['ua']['name09-3']='Анастасія Палій';
-aLangKeys['en']['name09-3']='Анастасія Палій';
+aLangKeys['ua']['name09-3']='Ілля Павлов';
+aLangKeys['en']['name09-3']='Ilya Pavlov';
 
-aLangKeys['ua']['text09-3']='Урбаніст';
-aLangKeys['en']['text09-3']='Урбаніст';
+aLangKeys['ua']['text09-3']='Бренд-коммунікації';
+aLangKeys['en']['text09-3']='Brand-communications';
 
-aLangKeys['ua']['name09-4']='Богдан Волинський';
-aLangKeys['en']['name09-4']='Богдан Волинський';
+aLangKeys['ua']['name09-4']='Тетяна Матвієнко';
+aLangKeys['en']['name09-4']='Tettyana Matvienko';
 
-aLangKeys['ua']['text09-4']='Lorem ipsum consectetur.';
-aLangKeys['en']['text09-4']='Lit amet, consectetur.';
-
-aLangKeys['ua']['name09-5']='Андрій Ключко';
-aLangKeys['en']['name09-5']='Андрій Ключко';
-
-aLangKeys['ua']['text09-5']='Developer';
-aLangKeys['en']['text09-5']='Developer';
-
-aLangKeys['ua']['name09-6']='Тетяна Матвієнко';
-aLangKeys['en']['name09-6']='Тетяна Матвієнко';
-
-aLangKeys['ua']['text09-6']='Solution Architect';
-aLangKeys['en']['text09-6']='Solution Architect';
+aLangKeys['ua']['text09-4']='Solutions Architect';
+aLangKeys['en']['text09-4']='Solutions Architect';
 
 aLangKeys['ua']['heading10']='Локація';
 aLangKeys['en']['heading10']='Location';
