@@ -268,6 +268,67 @@ aLangKeys['en']['link-back']='TO THE MAIN TRIENNIAL';
 aLangKeys['ua']['text11']='ХША, вул. Конторська, 5';
 aLangKeys['en']['text11']='KSA, Kontorska St, 5';
 
+aLangKeys['ua']['pr01']='21 квiтня';
+aLangKeys['en']['pr01']='April 21';
+
+aLangKeys['ua']['pr02']='Ранкова кава, реєстрація учасників';
+aLangKeys['en']['pr02']='Morning coffee, registration of participants';
+
+aLangKeys['ua']['pr03']='Відкриття';
+aLangKeys['en']['pr03']='Opening';
+
+aLangKeys['ua']['pr04']='Презентація Ідей';
+aLangKeys['en']['pr04']='Hackathon Kickoff: Presentation of the ideas';
+
+aLangKeys['ua']['pr05']='Кава-Брейк';
+aLangKeys['en']['pr05']='Coffee Break';
+
+aLangKeys['ua']['pr06']='Робота над проектами';
+aLangKeys['en']['pr06']='Work on projects';
+
+aLangKeys['ua']['pr07']='Urban Food Lunch';
+aLangKeys['en']['pr07']='Urban Food Lunch';
+
+
+aLangKeys['ua']['pr08']='Лекції менторів. Менторські години з проектами';
+aLangKeys['en']['pr08']='Lectures of mentors';
+
+aLangKeys['ua']['pr09']='Dinner and Ideation Party';
+aLangKeys['en']['pr09']='Dinner and Ideation Sessions';
+
+aLangKeys['ua']['pr10']='Робота над проектами';
+aLangKeys['en']['pr10']='Work on projects';
+
+aLangKeys['ua']['pr11']='HACKATHON!!!';
+aLangKeys['en']['pr11']='HACKATHON!!!';
+
+aLangKeys['ua']['pr12']='22 квiтня';
+aLangKeys['en']['pr12']='April 22';
+
+aLangKeys['ua']['pr13']='Ранкова кава';
+aLangKeys['en']['pr13']='Morning coffee';
+
+aLangKeys['ua']['pr14']='Робота над проектами';
+aLangKeys['en']['pr14']='Work on projects';
+
+aLangKeys['ua']['pr15']='Менторські години';
+aLangKeys['en']['pr15']='Mentors sessions';
+
+aLangKeys['ua']['pr16']='Urban Food Open Air';
+aLangKeys['en']['pr16']='Urban Food Open Air';
+
+aLangKeys['ua']['pr17']='Робота над проектами';
+aLangKeys['en']['pr17']='Work on projects';
+
+aLangKeys['ua']['pr18']='Фінальні Презентації Проектів';
+aLangKeys['en']['pr18']='Final Project Pitching';
+
+aLangKeys['ua']['pr19']='Визначення переможців';
+aLangKeys['en']['pr19']='Prizes to the top 3 projects, Networking and Demoing';
+
+aLangKeys['ua']['pr20']='Закриття хакатону / AFTER-PARTY';
+aLangKeys['en']['pr20']='Hackathon Closure / AFTER-PARTY';
+
 $(document).ready(function() {
 
 	// onclick behavior
