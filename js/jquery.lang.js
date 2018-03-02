@@ -205,8 +205,8 @@ aLangKeys['en']['jury02-19']='2016: China Packaging Design Contest, Gold Award';
 aLangKeys['ua']['jury05-1']='Олексій Рибаков';
 aLangKeys['en']['jury05-1']='Alexey Rybakov';
 
-aLangKeys['ua']['jury05-2']='Технічний консультант, Senior програміст в DataArt';
-aLangKeys['en']['jury05-2']='Technical Advisor, Senior Software Engineer at DataArt';
+aLangKeys['ua']['jury05-2']='Технічний консультант, технічний євангеліст, Senior програміст в DataArt';
+aLangKeys['en']['jury05-2']='Technical Advisor, Technical Evangelist, Senior Software Engineer at DataArt';
 
 aLangKeys['ua']['jury05-3']='З 2011 року в DataArt він працює над проектами, пов\'язаними з мобільним та десктоп розробками. Також знайомий з розробкою смарт-годинників (watchOS / Android Wear / Tizen), та TV-девелопментом: tvOS, android TV та інших. Протягом останніх двох років працює над проектами в області змішаної реальності (AR / VR).';
 aLangKeys['en']['jury05-3']='Since 2011 at DataArt he has been working on projects connected with mobile and embedded development. He is familiar with  watch development ( watchOS/ Android Wear / Tizen), tv development: tvOS, android TV etc. During last two years he has been working on projects in Mixed Reality area (AR/VR)';
