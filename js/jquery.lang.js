@@ -54,13 +54,13 @@ aLangKeys['en']['btn']='I want to take part';
 aLangKeys['ua']['heading02']='Підхід';
 aLangKeys['en']['heading02']='Approach';
 
-aLangKeys['ua']['text02']='Екохакатон 4-го блоку орієнтується на інновації в інфраструктурі міст, технологій відповідального споживання та нових рішень, спрямованих на захист планети та ідеї для забезпечення кращого життя на Землі.';
-aLangKeys['en']['text02']='Ecohackathon 4Block focuses on innovation in urban infrastructure, responsible consumption technologies and ideas of new solutions to protect the planet for a better life on Earth.';
+aLangKeys['ua']['text02']='Екохакатон “4й Блок” орієнтується на інновації в інфраструктурі міста, технології відповідального споживання та нові рішення, спрямовані на захист довкілля та ідеї для забезпечення кращого життя в місті та поряд з ним в більш екологичній засіб';
+aLangKeys['en']['text02']='Ecohackathon 4Block focuses on innovation in urban infrastructure, responsible consumption technologies and ideas of new solutions to protect the planet for a better life on Earth';
 
 aLangKeys['ua']['heading03']='результат';
 aLangKeys['en']['heading03']='the result';
 
-aLangKeys['ua']['text03']='Працюючий прототип сервису чи аплікації, який готовий на розгляд членам жюрі та потенційним інвесторам.';
+aLangKeys['ua']['text03']='Працюючий прототип сервису чи аплікації, готовий на розгляд членами жюрі та потенційними інвесторами';
 aLangKeys['en']['text03']='Working prototype of service or application ready to be presented to jury or potential investors';
 
 aLangKeys['ua']['heading04']='Напрямки';
