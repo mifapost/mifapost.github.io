@@ -54,7 +54,7 @@ aLangKeys['en']['btn']='I want to take part';
 aLangKeys['ua']['heading02']='Підхід';
 aLangKeys['en']['heading02']='Approach';
 
-aLangKeys['ua']['text02']='Екохакатон 4-го блоку орієнтується на інновації в інфраструктурі міст, технологій відповідального споживання та нових рішень, спрямованих на захист планети та ідеї для забезпечення кращої життя на Землі.';
+aLangKeys['ua']['text02']='Екохакатон 4-го блоку орієнтується на інновації в інфраструктурі міст, технологій відповідального споживання та нових рішень, спрямованих на захист планети та ідеї для забезпечення кращого життя на Землі.';
 aLangKeys['en']['text02']='Ecohackathon 4Block focuses on innovation in urban infrastructure, responsible consumption technologies and ideas of new solutions to protect the planet for a better life on Earth.';
 
 aLangKeys['ua']['heading03']='результат';
@@ -147,7 +147,7 @@ aLangKeys['en']['jury02-1']='Yang Chao';
 aLangKeys['ua']['jury02-2']='Дизайнер-графік, арт-директор';
 aLangKeys['en']['jury02-2']='Graphic designer and Art director';
 
-aLangKeys['ua']['jury02-3']='Доцент кафедри медіа та комунікацій Університету Чжецзян, член Дирекційного клубу Нью-Йорк, США (NY ADC), член Міжнародної ради графічного дизайну (ico-D), національний комітет Член Асоціації дизайнерів упаковки Китаю, директор візуальної дизайнерської групи Yang Chao.';
+aLangKeys['ua']['jury02-3']='Доцент кафедри медіа та комунікацій Університету Чжецзян, член Арт-Директор Клубу Нью-Йорк, США (NY ADC), член Міжнародної ради графічного дизайну (ico-D), національний комітет Член Асоціації дизайнерів упаковки Китаю, директор візуальної дизайнерської групи Yang Chao.';
 aLangKeys['en']['jury02-3']='Associate Professor at Zhejiang University of Media and Communications, member of the Art Directors Club New York, USA (NY ADC) Member of the International Council of Graphic Design (ico-D), National Committee Member of the Packaging Design Association of China, Director of the Yang Chao Visual Design Team.';
 
 aLangKeys['ua']['jury02-4']='Суддя та досвід куратора:';
@@ -220,6 +220,16 @@ aLangKeys['en']['jury05-5']='As a Technical Evangelist at DataArt he enjoys publ
 aLangKeys['ua']['jury05-6']='Співзасновник Kharkiv-Center Google Developer Group.';
 aLangKeys['en']['jury05-6']='Co-Organizer Kharkiv-Center Google Developer Group.';
 
+aLangKeys['ua']['jury06-1']='Максим Іванов';
+aLangKeys['en']['jury06-1']='Maxim Ivanov';
+
+aLangKeys['ua']['jury06-2']='Популяризатор активного та здорового засобу життя';
+aLangKeys['en']['jury06-2']='Promoter of active and healthy way of life';
+
+aLangKeys['ua']['jury06-3']='Співзасновник компанії Велопланета (2008) - мережі магазинів для велосипедистів та шукачів пригод, співзасновник марки Pridebikes (2009) - велосипедів для людей, співзасновник кабаре-кофейні “Іхали ведмеді” (2013), велосипедист, на даний момент - безробітний.';
+aLangKeys['en']['jury06-3']='Co-founder of Veloplaneta company (2008) - chain of shops for cyclists and adventure seekers. Co-founder of TM Pridebikes (2009) - bicycles for people. Co-founder of cabaret-coffee-shop “There went the bears” (2013). Cyclist, unemployed by now.';
+
+
 aLangKeys['ua']['heading09']='Ментори';
 aLangKeys['en']['heading09']='Mentors';
 
@@ -243,6 +253,9 @@ aLangKeys['en']['text09-3']='Brand-communications';
 
 aLangKeys['ua']['name09-4']='Тетяна Матвієнко';
 aLangKeys['en']['name09-4']='Tettyana Matvienko';
+
+aLangKeys['ua']['name10-1']='Анна Прокаєва';
+aLangKeys['en']['name10-1']='Anna Prokaeva';
 
 aLangKeys['ua']['text09-4']='Solutions Architect';
 aLangKeys['en']['text09-4']='Solutions Architect';
