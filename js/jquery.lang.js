@@ -55,7 +55,7 @@ aLangKeys['ua']['heading02']='Підхід';
 aLangKeys['en']['heading02']='Approach';
 
 aLangKeys['ua']['text02']='Екохакатон “4й Блок” орієнтується на інновації в інфраструктурі міста, технології відповідального споживання та нові рішення, спрямовані на захист довкілля та ідеї для забезпечення кращого життя в місті та поряд з ним в більш екологичній засіб';
-aLangKeys['en']['text02']='Ecohackathon 4Block focuses on innovation in urban infrastructure, responsible consumption technologies and ideas of new solutions to protect the planet for a better life on Earth';
+aLangKeys['en']['text02']='“The 4th Block” hackathon focuses on innovations in urban infrastructure, responsible consumption technologies and ideas of new solutions for the the environmental issues and sustainable development';
 
 aLangKeys['ua']['heading03']='результат';
 aLangKeys['en']['heading03']='the result';
@@ -132,13 +132,13 @@ aLangKeys['en']['text07-4']='The unique edition "Stingray" from';
 aLangKeys['ua']['heading08']='Жюрі';
 aLangKeys['en']['heading08']='Jury';
 
-aLangKeys['ua']['jury01-1']='Адан Парадес Баррера (La Concepción, Veracruz, 1982)';
-aLangKeys['en']['jury01-1']='Adán Paredes Barrera (La Concepción, Veracruz, 1982)';
+aLangKeys['ua']['jury01-1']='Адан Парадес Баррера';
+aLangKeys['en']['jury01-1']='Adán Paredes Barrera';
 
 aLangKeys['ua']['jury01-2']='Дизайнер-графік, арт-директор';
 aLangKeys['en']['jury01-2']='Graphic designer, art director';
 
-aLangKeys['ua']['jury01-3']='Здобув освіту в Universidad Veracruzana, в Халапі зі спеціалізації Візуальний комунікативний дизайн. Починаючи з 2007 року він створює плакати, та має постійну і видатну участь у змаганнях, бієнале та триєнале. Його роботи були відібрані, нагороджені та виставлені в Мексиці, Македонії, Сербії, Китаї, Польщі, Росії, Болівії, Чехії, Україні та Італії. У 2013 році він отримав спеціальну премію ICOGRADA, та Міжнародну премію дизайну в Тайбей. Адан практикує як викладач, час від часу організує семінари та читає лекції. У 2016 році він був членом відбіркового комітету в Міжнародній дизайнерській бієнале «STRELKA» в Росії. Цього ж року його роботи були відібрані для Еквадорської Бієнале Плаката, Бієнале «Golden Bee» в Росії та проекту «Все золото Світу». Зараз він здобуває ступінь з образотворчого мистецтва на факультеті пластичних мистецтв в Universidad Veracruzana, де є частиною академічного відділу ARTE Y TRANSDISCIPLINA UV-CA-385 (2015-2016).';
+aLangKeys['ua']['jury01-3']='Здобув освіту в Universidad Veracruzana (Халапа) за спеціалізацією «Візуальний комунікативний дизайн». З 2007 року Адан створює плакати, бере участь та отримує нагороди на різноманітних фестивалях графічного дизайну у світі. Його роботи отримували відзнаку в Мексиці, Македонії, Сербії, Китаї, Польщі, Росії, Болівії, Чехії, Україні та Італії. У 2013 році отримав спеціальну премію ICOGRADA, та Міжнародну премію дизайну у Тайбей. Адан – викладач, організатор семінарів та лекцій. У 2016 році був членом відбіркового комітету Міжнародної бієнале «STRELKA». Цього ж року його роботи були відібрані для Еквадорської Бієнале Плаката, Бієнале «Golden Bee» та проекту «Усе Золото Світу». Зараз він здобуває ступінь з образотворчого мистецтва на факультеті пластичних мистецтв в Universidad Veracruzana, де є частиною академічного відділу ARTE Y TRANSDISCIPLINA UV-CA-385 (2015-2016).';
 aLangKeys['en']['jury01-3']='He completed three years of studies in Visual Communication Design at the Universidad Veracruzana, in Xalapa. In 2007 he started designing posters. Since then he has had a constant and outstanding participation in competitions, biennials and poster triennials. His work has beenselected, awarded and exhibited in Mexico, Macedonia, Serbia, China, Poland, Russia, Bolivia, Czech Republic, Ukraine and Italy. In 2013 he obtained the ICOGRADA Special Award in the Taipei International Design Award. He has organized poster exhibitions, given workshops and given lectures in some cities of the country. He is a member of the pre-selection committee of STRELKA International designbiennale 2016 of Russia; as well as selected in the Ecuador Biennial Poster and Golden Bee Global Biennale of GraphicDesign, being part of the project All Gold of the World this year. He iscurrently studying a Visual Arts degree at the Faculty of Plastic Arts of the Universidad Veracruzana, where he is part of the Academic departmet of ARTE Y TRANSDISCIPLINA UV-CA-385 (2015-2016) and has been a school counselor since 2016.';
 
 aLangKeys['ua']['jury02-1']='Чао Янг';
@@ -147,59 +147,56 @@ aLangKeys['en']['jury02-1']='Yang Chao';
 aLangKeys['ua']['jury02-2']='Дизайнер-графік, арт-директор';
 aLangKeys['en']['jury02-2']='Graphic designer and Art director';
 
-aLangKeys['ua']['jury02-3']='Доцент кафедри медіа та комунікацій Університету Чжецзян, член Арт-Директор Клубу Нью-Йорк, США (NY ADC), член Міжнародної ради графічного дизайну (ico-D), національний комітет Член Асоціації дизайнерів упаковки Китаю, директор візуальної дизайнерської групи Yang Chao.';
+aLangKeys['ua']['jury02-3']='Доцент кафедри Медіа та Комунікацій Університету Чжецзян, член Art Directors Club New York, USA (NY ADC), член International Council of Graphic Design (ico-D), член національного комітету Packaging Design Association of China, директор Yang Chao Visual Design Team.';
 aLangKeys['en']['jury02-3']='Associate Professor at Zhejiang University of Media and Communications, member of the Art Directors Club New York, USA (NY ADC) Member of the International Council of Graphic Design (ico-D), National Committee Member of the Packaging Design Association of China, Director of the Yang Chao Visual Design Team.';
 
-aLangKeys['ua']['jury02-4']='Суддя та досвід куратора:';
+aLangKeys['ua']['jury02-4']='Досвід суддівства та кураторства:';
 aLangKeys['en']['jury02-4']='Judge and Curator Experience:';
 
-
-
-aLangKeys['ua']['jury02-5']='2016 рік: суддя на 6-й Міжнародній бієнале соціально-політичного плакату в Освенцимі, Польща';
+aLangKeys['ua']['jury02-5']='2016: член жюрі 6th International Biennial of Socio-Political Poster in Oswiecim, Poland';
 aLangKeys['en']['jury02-5']='2016: Judge for the 6th International Biennial of Socio-Political Poster in Oswiecim, Poland';
 
-aLangKeys['ua']['jury02-6']='2015, 2016: суддя китайської премії «Елемент» Китайського Міжнародного Фестивалю Реклами';
+aLangKeys['ua']['jury02-6']='2015, 2016: член жюрі Chinese Element Award of China International Advertising Festival';
 aLangKeys['en']['jury02-6']='2015，2016:	Judge for the Chinese Element Award of China International Advertising Festival';
 
-aLangKeys['ua']['jury02-7']='2016 рік: суддя та куратор конкурсу дизайну упаковки у Китаї';
+aLangKeys['ua']['jury02-7']='2016: член жюрі та куратор China Packaging Design Competition';
 aLangKeys['en']['jury02-7']='2016: Judge and Curator for the China Packaging Design Competition';
 
-
-aLangKeys['ua']['jury02-8']='2016: Куратор 1-го Міжнародного дизайнерського бієнале у Веньчжоу, Веньчжоу, Китай';
+aLangKeys['ua']['jury02-8']='2016: Куратор 1st Wenzhou International Design Biennial, Wenzhou, China';
 aLangKeys['en']['jury02-8']='2016: Curator for the 1st Wenzhou International Design Biennial, Wenzhou, China';
 
 
-aLangKeys['ua']['jury02-9']='2015: 2015 Shenzhen Culture Fair Design Competition';
+aLangKeys['ua']['jury02-9']='2015: член жюрі Shenzhen Culture Fair Design Competition';
 aLangKeys['en']['jury02-9']='2015: Judge for the 2015 Shenzhen Culture Fair Design Competition';
 
-aLangKeys['ua']['jury02-10']='2015, 2017 рік: суддя Italian A’ Design Award and Competition';
-aLangKeys['en']['jury02-10']='2015, 2017:	Judge for the Italian A’ Design Award and Competition';
+aLangKeys['ua']['jury02-10']='2015, 2017: член жюрі Italian A’ Design Award and Competition';
+aLangKeys['en']['jury02-10']='2015, 2017: Judge for the Italian A’ Design Award and Competition';
 
-aLangKeys['ua']['jury02-11']='2014, 2016: Куратор виставки AGDIE Азіатська міжнародна виставка графічного дизайну ';
-aLangKeys['en']['jury02-11']='2014, 2016:	Curator for the AGDIE Asian International Graphic Design Exhibition';
+aLangKeys['ua']['jury02-11']='2014, 2016: Куратор AGDIE Asian International Graphic Design Exhibition';
+aLangKeys['en']['jury02-11']='2014, 2016: Curator for the AGDIE Asian International Graphic Design Exhibition';
 
-aLangKeys['ua']['jury02-12']='2013: Суддя конкурсу мистецтв дизайну реклами в Китаї Цзянси';
+aLangKeys['ua']['jury02-12']='2013: член жюрі China Jiangxi Advertising Design Art Competition';
 aLangKeys['en']['jury02-12']='2013: Judge for the China Jiangxi Advertising Design Art Competition';
 
-aLangKeys['ua']['jury02-13']='2010 — 2013: суддя з дизайнерського конкурсу коледжу мистецтв та дизайну Цзянси';
+aLangKeys['ua']['jury02-13']='2010 — 2013: член жюрі Art and Design Contest of Jiangxi College';
 aLangKeys['en']['jury02-13']='2010 — 2013: Judge for the Art and Design Contest of Jiangxi College';
 
 aLangKeys['ua']['jury02-14']='Нагороди та досягнення:';
 aLangKeys['en']['jury02-14']='Awards and Achievements:';
 
-aLangKeys['ua']['jury02-15']='2017 рік: Італія Design Award and Competition, Gold Award';
-aLangKeys['en']['jury02-15']='2017: Italy A’ Design Award and Competition, Gold Award';
+aLangKeys['ua']['jury02-15']='2017: Design Award and Competition (Italy), Gold Award';
+aLangKeys['en']['jury02-15']='2017: Design Award and Competition (Italy), Gold Award';
 
-aLangKeys['ua']['jury02-16']='2017: Франція конкурс дизайнерів плакатів «Poster for Tomorrow», 10 найкращих у 6993 роботах';
-aLangKeys['en']['jury02-16']='2017: France «Poster for Tomorrow» poster design Competition, Top 10 in 6993 works';
+aLangKeys['ua']['jury02-16']='2017: Poster for Tomorrow (France)';
+aLangKeys['en']['jury02-16']='2017: Poster for Tomorrow (France)';
 
-aLangKeys['ua']['jury02-17']='2016: Німеччина Премія за концепцію дизайну Red dot';
-aLangKeys['en']['jury02-17']='2016: Germany Red dot Concept Design Award';
+aLangKeys['ua']['jury02-17']='2016: Red dot Concept Design Award (Germany)';
+aLangKeys['en']['jury02-17']='2016: Red dot Concept Design Award (Germany)';
 
-aLangKeys['ua']['jury02-18']='2016: Los Angeles the International Design Awards (IDA), Золотий приз і срібний приз';
-aLangKeys['en']['jury02-18']='2016: Los Angeles the International Design Awards (IDA) Golden Prize and Silver Prize';
+aLangKeys['ua']['jury02-18']='2016: Los Angeles the International Design Awards (IDA), Golden Prize and Silver Prize';
+aLangKeys['en']['jury02-18']='2016: Los Angeles the International Design Awards (IDA), Golden Prize and Silver Prize';
 
-aLangKeys['ua']['jury02-19']='2016 року: Китайський конкурс дизайну упаковки, Золота премія';
+aLangKeys['ua']['jury02-19']='2016: China Packaging Design Contest, Gold Award';
 aLangKeys['en']['jury02-19']='2016: China Packaging Design Contest, Gold Award';
 
 aLangKeys['ua']['jury05-1']='Олексій Рибаков';
