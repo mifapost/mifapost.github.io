@@ -245,8 +245,8 @@ aLangKeys['en']['text09-2']='UX';
 aLangKeys['ua']['name09-3']='Ілля Павлов';
 aLangKeys['en']['name09-3']='Ilya Pavlov';
 
-aLangKeys['ua']['text09-3']='Бренд-коммунікації';
-aLangKeys['en']['text09-3']='Brand-communications';
+aLangKeys['ua']['text09-3']='Brand Consulting';
+aLangKeys['en']['text09-3']='Brand Consulting';
 
 aLangKeys['ua']['name09-4']='Тетяна Матвієнко';
 aLangKeys['en']['name09-4']='Tettyana Matvienko';
