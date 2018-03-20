@@ -226,6 +226,14 @@ aLangKeys['en']['jury06-2']='Promoter of active and healthy way of life';
 aLangKeys['ua']['jury06-3']='Співзасновник компанії Велопланета (2008) - мережі магазинів для велосипедистів та шукачів пригод, співзасновник марки Pridebikes (2009) - велосипедів для людей, співзасновник кабаре-кофейні “Іхали ведмеді” (2013), велосипедист, на даний момент - безробітний.';
 aLangKeys['en']['jury06-3']='Co-founder of Veloplaneta company (2008) - chain of shops for cyclists and adventure seekers. Co-founder of TM Pridebikes (2009) - bicycles for people. Co-founder of cabaret-coffee-shop “There went the bears” (2013). Cyclist, unemployed by now.';
 
+aLangKeys['ua']['jury08-1']='Юрій Спасов';
+aLangKeys['en']['jury08-1']='Yuri Spasov';
+
+aLangKeys['ua']['jury08-2']='Архітектор';
+aLangKeys['en']['jury08-2']='Architect';
+
+aLangKeys['ua']['jury08-3']='Спасов Юрій в 1983 р. закінчив Містобудівельний факультет Харківського інституту інженерів комунального будівництва за спеціальністю «архітектура». З 1985 — архітектор, з 2008 — директор О.О.О. «Інститут Харківпроект». Член Спілки Архітекторів і Спілки Дизайнерів України, сертифікований спеціаліст за напрямом «архітектура і містобудівництво». Автор ряду будівель в м. Харкові і містобудівельної документації в Одесі, Дніпрі, Черкасах. В 2000-х — член містобудівельної ради м. Харкова. Учасник проекту «Водопарад», виставки предметного дизайну в Києві, Франкфурті, Ессені.';
+aLangKeys['en']['jury08-3']='Spasov Yuri graduated from the Town-planning faculty of Kharkov Institute of Engineers of Public Construction  in 1983 with a degree in architecture. Since 1985, the architect, since 2008 - the director of the OO. "Kharkovproekt Institute". Member of the Union of Architects and the Union of Designers of Ukraine, a certified specialist in the areas of architecture and urban planning. The author of a number of buildings in Kharkov and town planning documentation in Odessa, Dnieper, Cherkassy. In 2000 - a member of the town-planning council of Kharkov. Participant of the project "Vodoparad", exhibition of object design in Kiev, Frankfurt, Essen.';
 
 aLangKeys['ua']['heading09']='Ментори';
 aLangKeys['en']['heading09']='Mentors';
