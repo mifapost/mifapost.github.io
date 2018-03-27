@@ -262,6 +262,9 @@ aLangKeys['en']['name09-4']='Tettyana Matvienko';
 aLangKeys['ua']['name10-1']='Анна Прокаєва';
 aLangKeys['en']['name10-1']='Anna Prokaeva';
 
+aLangKeys['ua']['name11-1']='Олександа Ніколашина';
+aLangKeys['en']['name11-1']='Olexandra Nikolashina';
+
 aLangKeys['ua']['text09-4']='Solutions Architect';
 aLangKeys['en']['text09-4']='Solutions Architect';
 
