@@ -283,6 +283,9 @@ aLangKeys['en']['heading11']='Partners';
 aLangKeys['ua']['heading12']='організатори';
 aLangKeys['en']['heading12']='Organizers';
 
+aLangKeys['ua']['heading13']='Інформаційні партнери';
+aLangKeys['en']['heading13']='Informational Partners';
+
 aLangKeys['ua']['link-back']='НА ГОЛОВНУ TRIENNIAL';
 aLangKeys['en']['link-back']='TO THE MAIN TRIENNIAL';
 
