@@ -265,6 +265,9 @@ aLangKeys['en']['name10-1']='Anna Prokaeva';
 aLangKeys['ua']['name11-1']='Олександа Ніколашина';
 aLangKeys['en']['name11-1']='Olexandra Nikolashina';
 
+aLangKeys['ua']['name12-1']='Юлія Болкун';
+aLangKeys['en']['name12-1']='Yulia Bolkun';
+
 aLangKeys['ua']['text09-4']='Solutions Architect';
 aLangKeys['en']['text09-4']='Solutions Architect';
 
