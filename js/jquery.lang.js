@@ -356,6 +356,9 @@ aLangKeys['en']['pr19']='Prizes to the top 3 projects, Networking and Demoing';
 aLangKeys['ua']['pr20']='Закриття хакатону / AFTER-PARTY';
 aLangKeys['en']['pr20']='Hackathon Closure / AFTER-PARTY';
 
+aLangKeys['ua']['reg_closed']='Реєстрація закрита!';
+aLangKeys['en']['reg_closed']='Registration is closed!';
+
 $(document).ready(function() {
 
 	// onclick behavior
