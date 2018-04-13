@@ -268,6 +268,9 @@ aLangKeys['en']['name11-1']='Olexandra Nikolashina';
 aLangKeys['ua']['name12-1']='Юлія Пащук';
 aLangKeys['en']['name12-1']='Juliia Pashchuk';
 
+aLangKeys['ua']['name13-1']='Ілля Калюжний';
+aLangKeys['en']['name13-1']='Ilya Kalyuzhnyi';
+
 aLangKeys['ua']['text09-4']='Solutions Architect';
 aLangKeys['en']['text09-4']='Solutions Architect';
 
