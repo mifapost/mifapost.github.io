@@ -235,6 +235,15 @@ aLangKeys['en']['jury08-2']='Architect';
 aLangKeys['ua']['jury08-3']='Спасов Юрій в 1983 р. закінчив Містобудівельний факультет Харківського інституту інженерів комунального будівництва за спеціальністю «архітектура». З 1985 — архітектор, з 2008 — директор О.О.О. «Інститут Харківпроект». Член Спілки Архітекторів і Спілки Дизайнерів України, сертифікований спеціаліст за напрямом «архітектура і містобудівництво». Автор ряду будівель в м. Харкові і містобудівельної документації в Одесі, Дніпрі, Черкасах. В 2000-х — член містобудівельної ради м. Харкова. Учасник проекту «Водопарад», виставки предметного дизайну в Києві, Франкфурті, Ессені.';
 aLangKeys['en']['jury08-3']='Spasov Yuri graduated from the Town-planning faculty of Kharkov Institute of Engineers of Public Construction  in 1983 with a degree in architecture. Since 1985, the architect, since 2008 - the director of the OO. "Kharkovproekt Institute". Member of the Union of Architects and the Union of Designers of Ukraine, a certified specialist in the areas of architecture and urban planning. The author of a number of buildings in Kharkov and town planning documentation in Odessa, Dnieper, Cherkassy. In 2000 - a member of the town-planning council of Kharkov. Participant of the project "Vodoparad", exhibition of object design in Kiev, Frankfurt, Essen.';
 
+aLangKeys['ua']['jury09-1']='Вікторія Грецька-Миргородська';
+aLangKeys['en']['jury09-1']='Victoria Gretska-Mirgorodska';
+
+aLangKeys['ua']['jury09-2']='Заступник директора Департаменту — начальник Управління інноваційного розвитку та іміджевих проектів Департаменту у справах сім\'ї, молоді та спорту Харківської міської ради';
+aLangKeys['en']['jury09-2']='Deputy Director of the Department - Head of the Department of Innovation Development and Image Projects of the Department of Family, Youth and Sports of Kharkiv City Council';
+
+aLangKeys['ua']['jury09-3']='Освіта: Харківський національний університет ім. В.Н. Каразіна кваліфікація — економіст, 2000 р. Харківський національний університет ім. В.Н. Каразіна, кваліфікація — психолог, 2003 р. Національний юридичний університет ім. Ярослава Мудрого, спеціальність «Правознавство», юрист 2016р. У теперішній час закінчується робота над науковою дисертацією з економічної теорії. Ініціювала та брала активну участь у розробці «Стратегії міста до 2020 року». З 2010-2015 депутат Красноградської районної ради Харківської області. Нагороди, почесні звання: Почесна грамота Департаменту у справах сім’ї, молоді та спорту Харківської міської ради, 2017 р. Подяка міського голови, 2017 р.';
+aLangKeys['en']['jury09-3']='Education: Kharkiv National University of VN Karazin. Qualification - economist, 2000. Kharkiv National University of VN Karazin, qualification - psychologist, 2003. National Law University of Yaroslav Mudryi, specialty "Jurisprudence", lawyer 2016. At the present time, work on a scientific thesis on economic theory. Initiator and active participator of development of "City Strategy by 2020". From 2010-2015 a deputy of Krasnogradsky district council of Kharkiv region. Awards, honorary titles: Diploma of the Department of Family, Youth and Sports of the Kharkiv City Council, 2017, Acknowledgment of the Mayor, 2017';
+
 aLangKeys['ua']['heading09']='Ментори';
 aLangKeys['en']['heading09']='Mentors';
 
@@ -270,6 +279,9 @@ aLangKeys['en']['name12-1']='Juliia Pashchuk';
 
 aLangKeys['ua']['name13-1']='Ілля Калюжний';
 aLangKeys['en']['name13-1']='Ilya Kalyuzhnyi';
+
+aLangKeys['ua']['name14-1']='Олексій Пономаренко';
+aLangKeys['en']['name14-1']='Oleksii Ponomarenko';
 
 aLangKeys['ua']['text09-4']='Solutions Architect';
 aLangKeys['en']['text09-4']='Solutions Architect';
