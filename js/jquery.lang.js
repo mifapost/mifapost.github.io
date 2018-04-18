@@ -283,6 +283,9 @@ aLangKeys['en']['name13-1']='Ilya Kalyuzhnyi';
 aLangKeys['ua']['name14-1']='Олексій Пономаренко';
 aLangKeys['en']['name14-1']='Oleksii Ponomarenko';
 
+aLangKeys['ua']['name15-1']='Софія Бєлєнкова';
+aLangKeys['en']['name15-1']='Sofiya Belenkova';
+
 aLangKeys['ua']['text09-4']='Solutions Architect';
 aLangKeys['en']['text09-4']='Solutions Architect';
 
