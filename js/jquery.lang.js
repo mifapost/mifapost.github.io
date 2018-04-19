@@ -126,8 +126,14 @@ aLangKeys['en']['text07-3']='Recirlce accessories from Dushka-Karamushka and ';
 aLangKeys['ua']['heading07-2']='ГРАН-ПРі';
 aLangKeys['en']['heading07-2']='ГРАН-ПРі';
 
+aLangKeys['ua']['heading08-2']='Спецприз';
+aLangKeys['en']['heading08-2']='Special';
+
 aLangKeys['ua']['text07-4']='Унікальна едиція «Stingray» від';
 aLangKeys['en']['text07-4']='The unique edition "Stingray" from';
+
+aLangKeys['ua']['text08-4']='Сертифікат на посадку дерев від';
+aLangKeys['en']['text08-4']='Certificate for planting trees from';
 
 aLangKeys['ua']['heading08']='Жюрі';
 aLangKeys['en']['heading08']='Jury';
