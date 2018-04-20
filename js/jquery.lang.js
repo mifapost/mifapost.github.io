@@ -295,6 +295,9 @@ aLangKeys['en']['name15-1']='Sofiya Belenkova';
 aLangKeys['ua']['name16-1']='Артем Липовенко';
 aLangKeys['en']['name16-1']='Artem Lypovenko';
 
+aLangKeys['ua']['name17-1']='Платон Дмітрієв';
+aLangKeys['en']['name17-1']='Platon Dmitriev';
+
 aLangKeys['ua']['text09-4']='Solutions Architect';
 aLangKeys['en']['text09-4']='Solutions Architect';
 
